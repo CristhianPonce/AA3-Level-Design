@@ -1451,3 +1451,69 @@ FPackageName: Skipped package /Game/Fab/Microwave/microwave has a valid, mounted
 [2026.05.22-01.05.59:117][810]LogEditorActor: Deleted Actor: StaticMeshActor
 [2026.05.22-01.05.59:127][810]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
 [2026.05.22-01.05.59:131][810]LogEditorActor: Deleted 1 Actors (0.016 secs)
+[2026.05.22-01.06.18:864][ 66]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2026.05.22-01.06.20:413][ 66]LogSlate: Window 'Save Content' being destroyed
+[2026.05.22-01.06.20:432][ 66]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.22-01.06.20:460][ 66]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2026.05.22-01.06.20:467][ 66]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2026.05.22-01.06.20:475][ 66]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2026.05.22-01.06.20:482][ 66]LogFileHelpers: InternalPromptForCheckoutAndSave took 49.481 ms (total: 129.971 ms)
+[2026.05.22-01.06.20:506][ 66]LogStall: Shutdown...
+[2026.05.22-01.06.20:506][ 66]LogStall: Shutdown complete.
+[2026.05.22-01.06.20:532][ 66]LogSlate: Window 'MyProject - Unreal Editor' being destroyed
+[2026.05.22-01.06.20:580][ 66]Cmd: QUIT_EDITOR
+[2026.05.22-01.06.20:580][ 66]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2026.05.22-01.06.20:585][ 67]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2026.05.22-01.06.20:586][ 67]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2026.05.22-01.06.20:586][ 67]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2026.05.22-01.06.20:587][ 67]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2026.05.22-01.06.20:588][ 67]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.22-01.06.20:588][ 67]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/NewMap.NewMap
+[2026.05.22-01.06.20:593][ 67]LogStylusInput: Shutting down StylusInput subsystem.
+[2026.05.22-01.06.20:593][ 67]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2026.05.22-01.06.20:596][ 67]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2026.05.22-01.06.20:596][ 67]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.22-01.06.20:597][ 67]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2026.05.22-01.06.20:597][ 67]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.22-01.06.20:597][ 67]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2026.05.22-01.06.20:597][ 67]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.22-01.06.20:598][ 67]LogStudioTelemetry: Ended StudioTelemetry Session
+[2026.05.22-01.06.20:599][ 67]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroying ET Analytics provider
+[2026.05.22-01.06.20:599][ 67]LogAnalytics: Display: [UEEditor.Rocket.Release] Ended ET Analytics provider session
+[2026.05.22-01.06.20:600][ 67]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroyed ET Analytics provider
+[2026.05.22-01.06.20:600][ 67]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2026.05.22-01.06.20:600][ 67]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2026.05.22-01.06.20:600][ 67]LogAudio: Display: Audio Device unregistered from world 'NewMap'.
+[2026.05.22-01.06.20:600][ 67]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2026.05.22-01.06.20:600][ 67]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2026.05.22-01.06.20:603][ 67]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2026.05.22-01.06.20:607][ 67]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2026.05.22-01.06.20:607][ 67]LogAudio: Display: Audio Device Manager Shutdown
+[2026.05.22-01.06.20:610][ 67]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2026.05.22-01.06.20:610][ 67]LogExit: Preparing to exit.
+[2026.05.22-01.06.20:625][ 67]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2026.05.22-01.06.21:028][ 67]LogEditorDataStorage: Deinitializing
+[2026.05.22-01.06.21:073][ 67]LogDirectoryWatcher: Display: Refresh of ReadDirectoryChangesW failed. GetLastError code [6] Handle [FFFFFFFFFFFFFFFF], Path [C:/Users/Usuario/OneDrive/Documentos/Repos/AA3-Level-Design/MyProject/Content/]. Aborting watch request...
+[2026.05.22-01.06.21:079][ 67]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2026.05.22-01.06.21:092][ 67]LogExit: Editor shut down
+[2026.05.22-01.06.21:093][ 67]LogExit: Transaction tracking system shut down
+[2026.05.22-01.06.21:181][ 67]LogExit: Object subsystem successfully closed.
+[2026.05.22-01.06.21:276][ 67]LogShaderCompilers: Display: Shaders left to compile 0
+[2026.05.22-01.06.21:488][ 67]LogMemoryProfiler: Shutdown
+[2026.05.22-01.06.21:488][ 67]LogNetworkingProfiler: Shutdown
+[2026.05.22-01.06.21:488][ 67]LoadingProfiler: Shutdown
+[2026.05.22-01.06.21:488][ 67]LogTimingProfiler: Shutdown
+[2026.05.22-01.06.21:801][ 67]LogChaosDD: Chaos Debug Draw Shutdown
+[2026.05.22-01.06.21:801][ 67]LogStudioTelemetry: Display: Shutdown StudioTelemetry Module
+[2026.05.22-01.06.21:801][ 67]LogNFORDenoise: NFORDenoise function shutting down
+[2026.05.22-01.06.21:801][ 67]RenderDocPlugin: plugin has been unloaded.
+[2026.05.22-01.06.21:827][ 67]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2026.05.22-01.06.21:827][ 67]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BBFA398AD-4FBD-B05E-FA79-F3910DA39DBB%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.5.4-40574608%2B%2B%2BUE5%2BRelease-5.5&UserID=1fa4908a4013eec94a0154b214582ff1%7Cd45c54d1744c46ef9eb7f99f67faf3bd%7Ca5534d1c-f707-4f3a-8bb9-40b65d11f47a&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2026.05.22-01.06.22:383][ 67]LogEOSSDK: FEOSSDKManager::Shutdown EOS_Shutdown Result=[EOS_Success]
+[2026.05.22-01.06.22:388][ 67]LogXGEController: Cleaning working directory: C:/Users/Usuario/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2026.05.22-01.06.22:389][ 67]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetActorFactory id: 0
+[2026.05.22-01.06.22:389][ 67]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetSubObjectFactory id: 1
+[2026.05.22-01.06.22:389][ 67]LogPakFile: Destroying PakPlatformFile
+[2026.05.22-01.06.22:607][ 67]LogD3D12RHI: ~FD3D12DynamicRHI
+[2026.05.22-01.06.22:634][ 67]LogExit: Exiting.
+[2026.05.22-01.06.22:648][ 67]Log file closed, 05/22/26 03:06:22
