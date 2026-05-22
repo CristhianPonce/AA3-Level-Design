@@ -2926,3 +2926,823 @@ FPackageName: Skipped package /Game/Fab/Microwave/microwave has a valid, mounted
 [2026.05.22-11.04.18:113][883]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2026.05.22-11.04.18:113][883]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2026.05.22-11.04.18:114][883]AssetCheck: /Game/NewMap Validating asset
+[2026.05.22-11.04.44:442][ 25]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2026.05.22-11.04.44:444][ 25]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/NewMap' took 0.013
+[2026.05.22-11.04.44:444][ 25]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MatsAndTextures/M_Wood] ([1] browsable assets)...
+[2026.05.22-11.04.46:756][ 25]OBJ SavePackage:     Rendered thumbnail for [Material /Game/MatsAndTextures/M_Wood.M_Wood]
+[2026.05.22-11.04.46:756][ 25]OBJ SavePackage: Finished generating thumbnails for package [/Game/MatsAndTextures/M_Wood]
+[2026.05.22-11.04.46:765][ 25]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/MatsAndTextures/M_Wood_Auto1
+[2026.05.22-11.04.46:765][ 25]LogSavePackage: Moving '../../../../../../Users/CristhianPonceKerpac/Documents/AA3-Level-Design/MyProject/Saved/M_Wood_Auto1F6FD7E62421C64A8350249B9D0ADE9CE.tmp' to '../../../../../../Users/CristhianPonceKerpac/Documents/AA3-Level-Design/MyProject/Saved/Autosaves/Game/MatsAndTextures/M_Wood_Auto1.uasset'
+[2026.05.22-11.04.46:766][ 25]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MatsAndTextures/M_Marmol] ([1] browsable assets)...
+[2026.05.22-11.04.46:815][ 25]OBJ SavePackage:     Rendered thumbnail for [Material /Game/MatsAndTextures/M_Marmol.M_Marmol]
+[2026.05.22-11.04.46:815][ 25]OBJ SavePackage: Finished generating thumbnails for package [/Game/MatsAndTextures/M_Marmol]
+[2026.05.22-11.04.46:817][ 25]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/MatsAndTextures/M_Marmol_Auto1
+[2026.05.22-11.04.46:817][ 25]LogSavePackage: Moving '../../../../../../Users/CristhianPonceKerpac/Documents/AA3-Level-Design/MyProject/Saved/M_Marmol_Auto15D82D1224730CF9704D7A5B46610B6AE.tmp' to '../../../../../../Users/CristhianPonceKerpac/Documents/AA3-Level-Design/MyProject/Saved/Autosaves/Game/MatsAndTextures/M_Marmol_Auto1.uasset'
+[2026.05.22-11.04.46:818][ 25]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MatsAndTextures/M_Metal] ([1] browsable assets)...
+[2026.05.22-11.04.46:863][ 25]OBJ SavePackage:     Rendered thumbnail for [Material /Game/MatsAndTextures/M_Metal.M_Metal]
+[2026.05.22-11.04.46:863][ 25]OBJ SavePackage: Finished generating thumbnails for package [/Game/MatsAndTextures/M_Metal]
+[2026.05.22-11.04.46:864][ 25]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/MatsAndTextures/M_Metal_Auto1
+[2026.05.22-11.04.46:864][ 25]LogSavePackage: Moving '../../../../../../Users/CristhianPonceKerpac/Documents/AA3-Level-Design/MyProject/Saved/M_Metal_Auto15652648E44E206F3ECC8629B57512878.tmp' to '../../../../../../Users/CristhianPonceKerpac/Documents/AA3-Level-Design/MyProject/Saved/Autosaves/Game/MatsAndTextures/M_Metal_Auto1.uasset'
+[2026.05.22-11.04.46:865][ 25]LogFileHelpers: Auto-saving content packages took 2.422
+[2026.05.22-11.05.56:288][197]Cmd: DUPLICATE
+[2026.05.22-11.05.56:288][197]Cmd: ACTOR DUPLICATE
+[2026.05.22-11.06.19:235][980]LogShaderCompilers: Display: ================================================
+[2026.05.22-11.06.19:235][980]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.05.22-11.06.19:235][980]LogShaderCompilers: Display: Total job queries 1511, among them cache hits 40 (2.65%), DDC hits 27 (1.79%), Duplicates 218 (14.43%)
+[2026.05.22-11.06.19:235][980]LogShaderCompilers: Display: Tracking 1253 distinct input hashes that result in 957 distinct outputs (76.38%)
+[2026.05.22-11.06.19:235][980]LogShaderCompilers: Display: RAM used: 652,17 KiB of 819,20 MiB budget. Usage: 0.08%
+[2026.05.22-11.06.19:235][980]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.05.22-11.06.19:235][980]LogShaderCompilers: Display: Shaders Compiled: 1228
+[2026.05.22-11.06.19:235][980]LogShaderCompilers: Display: Jobs assigned 1228, completed 1228 (100%)
+[2026.05.22-11.06.19:235][980]LogShaderCompilers: Display: Average time worker was idle: 39.24 s
+[2026.05.22-11.06.19:235][980]LogShaderCompilers: Display: Time job spent in pending queue: average 11.19 s, longest 206.29 s
+[2026.05.22-11.06.19:235][980]LogShaderCompilers: Display: Job execution time: average 107.00 s, max 289.47 s
+[2026.05.22-11.06.19:235][980]LogShaderCompilers: Display: Job life time (pending + execution): average 118.19 s, max 290.09
+[2026.05.22-11.06.19:235][980]LogShaderCompilers: Display: Shader code size: average 12,97 KiB, min 1,199 KiB, max 49,212 KiB
+[2026.05.22-11.06.19:235][980]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 542.90 s
+[2026.05.22-11.06.19:235][980]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.03%
+[2026.05.22-11.06.19:235][980]LogShaderCompilers: Display: Jobs were issued in 333 batches (191 local, 142 distributed), average 3.69 jobs/batch (1.23 jobs/local batch. 7.00 jobs/distributed batch)
+[2026.05.22-11.06.19:235][980]LogShaderCompilers: Display: Average processing rate: 2.26 jobs/sec
+[2026.05.22-11.06.19:235][980]LogShaderCompilers: Display: Total thread time: 6958,495 s
+[2026.05.22-11.06.19:235][980]LogShaderCompilers: Display: Total thread preprocess time: 51,738 s
+[2026.05.22-11.06.19:235][980]LogShaderCompilers: Display: Percentage time preprocessing: 0.74%
+[2026.05.22-11.06.19:235][980]LogShaderCompilers: Display: Effective parallelization: 12.82 (times faster than compiling all shaders on one thread). Distributed compilation was used.
+[2026.05.22-11.06.19:235][980]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.05.22-11.06.19:235][980]LogShaderCompilers: Display:                         TBasePassCSFNoLightMapPolicySkylight (compiled    2 times, average 44.62 sec, max 82.34 sec, min 6.90 sec)
+[2026.05.22-11.06.19:235][980]LogShaderCompilers: Display:                    TVoxelizeVolumePS<VMode_Primitive_Sphere> (compiled    1 times, average 42.21 sec, max 42.21 sec, min 42.21 sec)
+[2026.05.22-11.06.19:235][980]LogShaderCompilers: Display:                           FRenderVolumetricCloudRenderViewCS (compiled   68 times, average 28.72 sec, max 138.61 sec, min 4.69 sec)
+[2026.05.22-11.06.19:235][980]LogShaderCompilers: Display:                                                FAnisotropyPS (compiled   10 times, average 18.86 sec, max 31.92 sec, min 3.61 sec)
+[2026.05.22-11.06.19:235][980]LogShaderCompilers: Display:                                                FAnisotropyVS (compiled   10 times, average 18.73 sec, max 49.35 sec, min 2.17 sec)
+[2026.05.22-11.06.19:235][980]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.05.22-11.06.19:235][980]LogShaderCompilers: Display:                           FRenderVolumetricCloudRenderViewCS - 28.06% of total time (compiled   68 times, average 28.72 sec, max 138.61 sec, min 4.69 sec)
+[2026.05.22-11.06.19:235][980]LogShaderCompilers: Display:                                        FMicropolyRasterizeCS - 20.32% of total time (compiled  260 times, average 5.44 sec, max 13.16 sec, min 0.01 sec)
+[2026.05.22-11.06.19:235][980]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 5.12% of total time (compiled   50 times, average 7.12 sec, max 50.99 sec, min 0.87 sec)
+[2026.05.22-11.06.19:235][980]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 4.46% of total time (compiled   35 times, average 8.86 sec, max 89.64 sec, min 1.08 sec)
+[2026.05.22-11.06.19:235][980]LogShaderCompilers: Display:                                                 FLumenCardPS - 3.92% of total time (compiled   20 times, average 13.63 sec, max 42.60 sec, min 0.67 sec)
+[2026.05.22-11.06.19:235][980]LogShaderCompilers: Display: === Material stats ===
+[2026.05.22-11.06.19:235][980]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.05.22-11.06.19:235][980]LogShaderCompilers: Display: Materials Translated:    152
+[2026.05.22-11.06.19:235][980]LogShaderCompilers: Display: Material Total Translate Time: 0.30 s
+[2026.05.22-11.06.19:235][980]LogShaderCompilers: Display: Material Translation Only: 0.17 s (57%)
+[2026.05.22-11.06.19:235][980]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2026.05.22-11.06.19:235][980]LogShaderCompilers: Display: Material Cache Hits: 0 (0%)
+[2026.05.22-11.06.19:235][980]LogShaderCompilers: Display: ================================================
+[2026.05.22-11.06.35:900][197]Cmd: DUPLICATE
+[2026.05.22-11.06.35:900][197]Cmd: ACTOR DUPLICATE
+[2026.05.22-11.07.01:581][ 95]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 2/3 of stale message segements from Sender=10.40.3.50:59127, Sequence=0
+[2026.05.22-11.07.01:599][ 96]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 2/3 of stale message segements from Sender=10.40.3.50:59127, Sequence=0
+[2026.05.22-11.07.01:599][ 96]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/3 of stale message segements from Sender=10.40.3.50:59127, Sequence=0
+[2026.05.22-11.07.01:599][ 96]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/3 of stale message segements from Sender=10.40.3.50:59127, Sequence=0
+[2026.05.22-11.07.14:780][126]Cmd: DUPLICATE
+[2026.05.22-11.07.14:780][126]Cmd: ACTOR DUPLICATE
+[2026.05.22-11.07.24:933][857]Cmd: DUPLICATE
+[2026.05.22-11.07.24:933][857]Cmd: ACTOR DUPLICATE
+[2026.05.22-11.07.30:699][294]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1702.946899
+[2026.05.22-11.07.30:857][307]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.22-11.07.30:857][307]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1703.093262, Update Interval: 331.491455
+[2026.05.22-11.07.43:796][143]Cmd: DUPLICATE
+[2026.05.22-11.07.43:796][143]Cmd: ACTOR DUPLICATE
+[2026.05.22-11.08.18:769][675]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.22-11.08.18:852][675]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2026.05.22-11.08.18:867][675]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2026.05.22-11.08.18:878][675]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2026.05.22-11.08.18:881][675]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/0/0H/O4NCHOFN812GU5DOYPIIWL
+[2026.05.22-11.08.18:881][675]LogSavePackage: Moving '../../../../../../Users/CristhianPonceKerpac/Documents/AA3-Level-Design/MyProject/Saved/O4NCHOFN812GU5DOYPIIWL189780F64D54DC6BADD2FBB10D40A4A5.tmp' to '../../../../../../Users/CristhianPonceKerpac/Documents/AA3-Level-Design/MyProject/Content/__ExternalActors__/NewMap/0/0H/O4NCHOFN812GU5DOYPIIWL.uasset'
+[2026.05.22-11.08.18:885][675]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/0/L4/35GXWL1T1TTFMZSJ5KMBYZ
+[2026.05.22-11.08.18:885][675]LogSavePackage: Moving '../../../../../../Users/CristhianPonceKerpac/Documents/AA3-Level-Design/MyProject/Saved/35GXWL1T1TTFMZSJ5KMBYZB1F869314B266E6DE0EAB2AD42C3B211.tmp' to '../../../../../../Users/CristhianPonceKerpac/Documents/AA3-Level-Design/MyProject/Content/__ExternalActors__/NewMap/0/L4/35GXWL1T1TTFMZSJ5KMBYZ.uasset'
+[2026.05.22-11.08.18:889][675]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/9/GI/EIO82B0PH52ER3M9WZ16E8
+[2026.05.22-11.08.18:889][675]LogSavePackage: Moving '../../../../../../Users/CristhianPonceKerpac/Documents/AA3-Level-Design/MyProject/Saved/EIO82B0PH52ER3M9WZ16E837B337CE43B8C60581593E8C8737376D.tmp' to '../../../../../../Users/CristhianPonceKerpac/Documents/AA3-Level-Design/MyProject/Content/__ExternalActors__/NewMap/9/GI/EIO82B0PH52ER3M9WZ16E8.uasset'
+[2026.05.22-11.08.18:893][675]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/C/TN/90V0NUZA66MON7FX3SFO55
+[2026.05.22-11.08.18:894][675]LogSavePackage: Moving '../../../../../../Users/CristhianPonceKerpac/Documents/AA3-Level-Design/MyProject/Saved/90V0NUZA66MON7FX3SFO5509887FB54EB2F6A85DFF4A8ABE5ACD95.tmp' to '../../../../../../Users/CristhianPonceKerpac/Documents/AA3-Level-Design/MyProject/Content/__ExternalActors__/NewMap/C/TN/90V0NUZA66MON7FX3SFO55.uasset'
+[2026.05.22-11.08.18:897][675]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/B/JD/S4IY0QMX24YBTGWTIO72CW
+[2026.05.22-11.08.18:898][675]LogSavePackage: Moving '../../../../../../Users/CristhianPonceKerpac/Documents/AA3-Level-Design/MyProject/Saved/S4IY0QMX24YBTGWTIO72CW744BBF404213615721D7EBAC3CA0FF6B.tmp' to '../../../../../../Users/CristhianPonceKerpac/Documents/AA3-Level-Design/MyProject/Content/__ExternalActors__/NewMap/B/JD/S4IY0QMX24YBTGWTIO72CW.uasset'
+[2026.05.22-11.08.18:903][675]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/9/5H/CR33MOJURKPSJ1EKNQONG7
+[2026.05.22-11.08.18:903][675]LogSavePackage: Moving '../../../../../../Users/CristhianPonceKerpac/Documents/AA3-Level-Design/MyProject/Saved/CR33MOJURKPSJ1EKNQONG789FA7C044890C7C0DF800890085CFD17.tmp' to '../../../../../../Users/CristhianPonceKerpac/Documents/AA3-Level-Design/MyProject/Content/__ExternalActors__/NewMap/9/5H/CR33MOJURKPSJ1EKNQONG7.uasset'
+[2026.05.22-11.08.18:907][675]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/1/8V/Q9FGF2QRKJ96AJ953QZWS1
+[2026.05.22-11.08.18:907][675]LogSavePackage: Moving '../../../../../../Users/CristhianPonceKerpac/Documents/AA3-Level-Design/MyProject/Saved/Q9FGF2QRKJ96AJ953QZWS155B579B7479C5F03E4DBCB92FB3C359F.tmp' to '../../../../../../Users/CristhianPonceKerpac/Documents/AA3-Level-Design/MyProject/Content/__ExternalActors__/NewMap/1/8V/Q9FGF2QRKJ96AJ953QZWS1.uasset'
+[2026.05.22-11.08.18:911][675]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/E/JZ/7TFWYJ8KULPOHBSRUFMT78
+[2026.05.22-11.08.18:911][675]LogSavePackage: Moving '../../../../../../Users/CristhianPonceKerpac/Documents/AA3-Level-Design/MyProject/Saved/7TFWYJ8KULPOHBSRUFMT78CF945A084C012CED385A75A81AB7D101.tmp' to '../../../../../../Users/CristhianPonceKerpac/Documents/AA3-Level-Design/MyProject/Content/__ExternalActors__/NewMap/E/JZ/7TFWYJ8KULPOHBSRUFMT78.uasset'
+[2026.05.22-11.08.18:915][675]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/B/RD/AEKRZM4K49WRLMRE5TSGR8
+[2026.05.22-11.08.18:915][675]LogSavePackage: Moving '../../../../../../Users/CristhianPonceKerpac/Documents/AA3-Level-Design/MyProject/Saved/AEKRZM4K49WRLMRE5TSGR81D02E9B74558502FC44182A0CFC719B2.tmp' to '../../../../../../Users/CristhianPonceKerpac/Documents/AA3-Level-Design/MyProject/Content/__ExternalActors__/NewMap/B/RD/AEKRZM4K49WRLMRE5TSGR8.uasset'
+[2026.05.22-11.08.18:920][675]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/6/G4/YP9Y2NSSE0JWKTK4XLJNXB
+[2026.05.22-11.08.18:920][675]LogSavePackage: Moving '../../../../../../Users/CristhianPonceKerpac/Documents/AA3-Level-Design/MyProject/Saved/YP9Y2NSSE0JWKTK4XLJNXB87D9CBDA49293C5A5545E4A7B1962BFB.tmp' to '../../../../../../Users/CristhianPonceKerpac/Documents/AA3-Level-Design/MyProject/Content/__ExternalActors__/NewMap/6/G4/YP9Y2NSSE0JWKTK4XLJNXB.uasset'
+[2026.05.22-11.08.18:933][675]LogFileHelpers: InternalPromptForCheckoutAndSave took 163.770 ms (total: 1.82 sec)
+[2026.05.22-11.08.19:000][675]LogContentValidation: Display: Starting to validate 10 assets
+[2026.05.22-11.08.19:000][675]LogContentValidation: Enabled validators:
+[2026.05.22-11.08.19:000][675]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.22-11.08.19:000][675]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.22-11.08.19:000][675]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.22-11.08.19:000][675]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.22-11.08.19:000][675]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.22-11.08.19:000][675]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.22-11.08.19:001][675]AssetCheck: /Game/NewMap Validating asset
+[2026.05.22-11.08.25:957][126]Cmd: TRANSACTION UNDO
+[2026.05.22-11.08.25:957][126]LogEditorTransaction: Undo Move Elements
+[2026.05.22-11.08.54:453][180]Cmd: DUPLICATE
+[2026.05.22-11.08.54:453][180]Cmd: ACTOR DUPLICATE
+[2026.05.22-11.09.44:418][600]Cmd: DUPLICATE
+[2026.05.22-11.09.44:418][600]Cmd: ACTOR DUPLICATE
+[2026.05.22-11.09.47:260][814]Cmd: DUPLICATE
+[2026.05.22-11.09.47:260][814]Cmd: ACTOR DUPLICATE
+[2026.05.22-11.09.51:252][124]Cmd: DUPLICATE
+[2026.05.22-11.09.51:252][124]Cmd: ACTOR DUPLICATE
+[2026.05.22-11.09.57:381][571]Cmd: DUPLICATE
+[2026.05.22-11.09.57:381][571]Cmd: ACTOR DUPLICATE
+[2026.05.22-11.10.02:315][871]Cmd: DUPLICATE
+[2026.05.22-11.10.02:315][871]Cmd: ACTOR DUPLICATE
+[2026.05.22-11.10.49:617][ 99]LogWebBrowser: Loaded CEF3 version 90.6.7.2358 from C:/Program Files/Epic Games/UE_5.5/Engine/Binaries/ThirdParty/CEF3/Win64
+[2026.05.22-11.10.49:640][ 99]LogCEFBrowser: CEF GPU acceleration enabled
+[2026.05.22-11.11.30:034][865]LogSlate: Window 'Fab' being destroyed
+[2026.05.22-11.11.30:048][865]LogSlate: Window 'Fab' being destroyed
+[2026.05.22-11.11.31:542][978]LogWebBrowser: Closing browser during destruction, this may cause a later crash.
+[2026.05.22-11.11.31:542][978]LogWebBrowser: Deleting browser for Url=https://www.fab.com/plugins/ue5/.
+[2026.05.22-11.11.35:705][178]LogEOSSDK: Error: LogEOS: EOS_Auth_CopyUserAuthToken - One or more parameters are null
+[2026.05.22-11.11.35:705][178]LogFab: Error: User auth token is invalid - unable to get auth token
+[2026.05.22-11.11.52:114][ 65]LogFab: Display: Asset Type = glb
+[2026.05.22-11.11.52:114][ 65]LogFab: Display: Is Quixel = 0
+[2026.05.22-11.11.52:469][ 70]LogStreaming: Display: FlushAsyncLoading(634): 1 QueuedPackages, 0 AsyncPackages
+[2026.05.22-11.11.53:340][ 70]LogInterchangeEngine: Display: Interchange import: Using stack [OverridePipeline] to import.
+[2026.05.22-11.11.53:341][ 70]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/CristhianPonceKerpac/AppData/Local/Temp/FabLibrary/87baab49-43a2-4689-84f0-7a56b1c23c61/cc0_paper.glb]
+[2026.05.22-11.11.53:420][ 73]LogStreaming: Display: FlushAsyncLoading(667): 1 QueuedPackages, 0 AsyncPackages
+[2026.05.22-11.11.53:685][ 88]LogStreaming: Display: FlushAsyncLoading(670): 1 QueuedPackages, 0 AsyncPackages
+[2026.05.22-11.11.53:709][ 89]LogStreaming: Display: FlushAsyncLoading(672): 1 QueuedPackages, 0 AsyncPackages
+[2026.05.22-11.11.53:746][ 91]LogStreaming: Display: FlushAsyncLoading(673): 1 QueuedPackages, 0 AsyncPackages
+[2026.05.22-11.11.53:854][ 92]LogTexture: Display: Building textures: /Game/Fab/CC0_-_Paper/cc0_paper_texture_0.cc0_paper_texture_0 (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1120.999983 MB), EncodeSpeed: Fast
+[2026.05.22-11.11.53:916][ 93]LogStaticMesh: Display: Building static mesh cc0_paper (Required Memory Estimate: 2.241667 MB)...
+[2026.05.22-11.11.53:943][ 93]LogStaticMesh: Built static mesh [0.03s] /Game/Fab/CC0_-_Paper/cc0_paper.cc0_paper
+[2026.05.22-11.11.54:520][120]LogTexture: Display: Building textures: /Game/Fab/CC0_-_Paper/cc0_paper_texture_1.cc0_paper_texture_1 (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1120.999983 MB), EncodeSpeed: Fast
+[2026.05.22-11.11.55:093][146]LogTexture: Display: Building textures: /Game/Fab/CC0_-_Paper/cc0_paper_texture_2.cc0_paper_texture_2 (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2026.05.22-11.11.55:894][180]LogInterchangeEngine: Display: Interchange import completed [C:/Users/CristhianPo...89-84f0-7a56b1c23c61/cc0_paper.glb]
+[2026.05.22-11.11.57:745][255]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Fab/CC0_-_Paper/cc0_paper.cc0_paper
+[2026.05.22-11.11.57:745][255]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Fab/CC0_-_Paper/cc0_paper.cc0_paper
+[2026.05.22-11.11.57:746][255]LogActorFactory: Actor Factory spawned StaticMesh /Game/Fab/CC0_-_Paper/cc0_paper.cc0_paper as actor: StaticMeshActor /Game/NewMap.NewMap:PersistentLevel.StaticMeshActor_0
+[2026.05.22-11.11.58:720][323]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2026.05.22-11.11.58:722][323]LogEditorActor: Deleted 0 Actors (0.020 secs)
+[2026.05.22-11.11.58:733][323]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Fab/CC0_-_Paper/cc0_paper.cc0_paper
+[2026.05.22-11.11.58:733][323]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Fab/CC0_-_Paper/cc0_paper.cc0_paper
+[2026.05.22-11.11.58:736][323]LogActorFactory: Actor Factory spawned StaticMesh /Game/Fab/CC0_-_Paper/cc0_paper.cc0_paper as actor: StaticMeshActor /Game/NewMap.NewMap:PersistentLevel.StaticMeshActor_UAID_7C10C98400BD7CDD02_1142698745
+[2026.05.22-11.12.18:702][643]Cmd: TRANSACTION UNDO
+[2026.05.22-11.12.18:702][643]LogEditorTransaction: Undo Clicking on Elements
+[2026.05.22-11.12.19:462][661]Cmd: TRANSACTION UNDO
+[2026.05.22-11.12.19:462][661]LogEditorTransaction: Undo Set Scale
+[2026.05.22-11.12.47:336][487]Cmd: DUPLICATE
+[2026.05.22-11.12.47:336][487]Cmd: ACTOR DUPLICATE
+[2026.05.22-11.13.03:580][549]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.22-11.13.03:666][549]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2026.05.22-11.13.03:680][549]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2026.05.22-11.13.03:694][549]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2026.05.22-11.13.03:697][549]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/3/9Q/JWAL24219BUSMK9HG43BDK
+[2026.05.22-11.13.03:698][549]LogSavePackage: Moving '../../../../../../Users/CristhianPonceKerpac/Documents/AA3-Level-Design/MyProject/Saved/JWAL24219BUSMK9HG43BDK60D489E2461F4AB629B8D2AB38B3A0CC.tmp' to '../../../../../../Users/CristhianPonceKerpac/Documents/AA3-Level-Design/MyProject/Content/__ExternalActors__/NewMap/3/9Q/JWAL24219BUSMK9HG43BDK.uasset'
+[2026.05.22-11.13.03:702][549]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/E/JZ/7TFWYJ8KULPOHBSRUFMT78
+[2026.05.22-11.13.03:702][549]LogSavePackage: Moving '../../../../../../Users/CristhianPonceKerpac/Documents/AA3-Level-Design/MyProject/Saved/7TFWYJ8KULPOHBSRUFMT786B33F98E4B4B79137E8C4B878CBB433A.tmp' to '../../../../../../Users/CristhianPonceKerpac/Documents/AA3-Level-Design/MyProject/Content/__ExternalActors__/NewMap/E/JZ/7TFWYJ8KULPOHBSRUFMT78.uasset'
+[2026.05.22-11.13.03:707][549]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/4/8L/0K40A3IDGZ7EPTV1WWVH9O
+[2026.05.22-11.13.03:707][549]LogSavePackage: Moving '../../../../../../Users/CristhianPonceKerpac/Documents/AA3-Level-Design/MyProject/Saved/0K40A3IDGZ7EPTV1WWVH9O7E8784D845C27FE179011E8EF39F877D.tmp' to '../../../../../../Users/CristhianPonceKerpac/Documents/AA3-Level-Design/MyProject/Content/__ExternalActors__/NewMap/4/8L/0K40A3IDGZ7EPTV1WWVH9O.uasset'
+[2026.05.22-11.13.03:711][549]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/0/ML/I9BO826FHQ8MU3BFB3BMO5
+[2026.05.22-11.13.03:711][549]LogSavePackage: Moving '../../../../../../Users/CristhianPonceKerpac/Documents/AA3-Level-Design/MyProject/Saved/I9BO826FHQ8MU3BFB3BMO5C0F78F594961D873B9CEE0AE7D813F35.tmp' to '../../../../../../Users/CristhianPonceKerpac/Documents/AA3-Level-Design/MyProject/Content/__ExternalActors__/NewMap/0/ML/I9BO826FHQ8MU3BFB3BMO5.uasset'
+[2026.05.22-11.13.03:717][549]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/B/8N/RVF4IBOQSLGTP18RT3IW44
+[2026.05.22-11.13.03:717][549]LogSavePackage: Moving '../../../../../../Users/CristhianPonceKerpac/Documents/AA3-Level-Design/MyProject/Saved/RVF4IBOQSLGTP18RT3IW44F496DC8C42C8564CF8D024BA7C8D1C91.tmp' to '../../../../../../Users/CristhianPonceKerpac/Documents/AA3-Level-Design/MyProject/Content/__ExternalActors__/NewMap/B/8N/RVF4IBOQSLGTP18RT3IW44.uasset'
+[2026.05.22-11.13.03:722][549]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/6/4J/CFTTU4QRB3RHHRHV5ZR3XR
+[2026.05.22-11.13.03:722][549]LogSavePackage: Moving '../../../../../../Users/CristhianPonceKerpac/Documents/AA3-Level-Design/MyProject/Saved/CFTTU4QRB3RHHRHV5ZR3XRF2AC1F6A44462847671AF48C56173845.tmp' to '../../../../../../Users/CristhianPonceKerpac/Documents/AA3-Level-Design/MyProject/Content/__ExternalActors__/NewMap/6/4J/CFTTU4QRB3RHHRHV5ZR3XR.uasset'
+[2026.05.22-11.13.03:726][549]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/3/CK/UNCA135CWMTG4M7P5T7F3D
+[2026.05.22-11.13.03:726][549]LogSavePackage: Moving '../../../../../../Users/CristhianPonceKerpac/Documents/AA3-Level-Design/MyProject/Saved/UNCA135CWMTG4M7P5T7F3DE64F474843ED35FA79AEBABF788AE43D.tmp' to '../../../../../../Users/CristhianPonceKerpac/Documents/AA3-Level-Design/MyProject/Content/__ExternalActors__/NewMap/3/CK/UNCA135CWMTG4M7P5T7F3D.uasset'
+[2026.05.22-11.13.03:732][549]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/1/9P/B77KS0ORZKUW655X1ZAOG2
+[2026.05.22-11.13.03:732][549]LogSavePackage: Moving '../../../../../../Users/CristhianPonceKerpac/Documents/AA3-Level-Design/MyProject/Saved/B77KS0ORZKUW655X1ZAOG2F0AFEB40460B6567452934A544E367DA.tmp' to '../../../../../../Users/CristhianPonceKerpac/Documents/AA3-Level-Design/MyProject/Content/__ExternalActors__/NewMap/1/9P/B77KS0ORZKUW655X1ZAOG2.uasset'
+[2026.05.22-11.13.03:736][549]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/3/5Z/2748SU31BRJZYQR28SM5RC
+[2026.05.22-11.13.03:736][549]LogSavePackage: Moving '../../../../../../Users/CristhianPonceKerpac/Documents/AA3-Level-Design/MyProject/Saved/2748SU31BRJZYQR28SM5RC3E75D5F84EE01A06E5F1D699D9AA5AE4.tmp' to '../../../../../../Users/CristhianPonceKerpac/Documents/AA3-Level-Design/MyProject/Content/__ExternalActors__/NewMap/3/5Z/2748SU31BRJZYQR28SM5RC.uasset'
+[2026.05.22-11.13.03:741][549]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/1/S5/PJUGWW4IR8AIU90K5SD81Z
+[2026.05.22-11.13.03:742][549]LogSavePackage: Moving '../../../../../../Users/CristhianPonceKerpac/Documents/AA3-Level-Design/MyProject/Saved/PJUGWW4IR8AIU90K5SD81Z83D515974DEA7AA47C5811923879B130.tmp' to '../../../../../../Users/CristhianPonceKerpac/Documents/AA3-Level-Design/MyProject/Content/__ExternalActors__/NewMap/1/S5/PJUGWW4IR8AIU90K5SD81Z.uasset'
+[2026.05.22-11.13.03:746][549]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/4/WY/QN4E5Q868JHZC469TRAMDV
+[2026.05.22-11.13.03:746][549]LogSavePackage: Moving '../../../../../../Users/CristhianPonceKerpac/Documents/AA3-Level-Design/MyProject/Saved/QN4E5Q868JHZC469TRAMDV9A37B6334A1D60378A8E60A81EF1C43B.tmp' to '../../../../../../Users/CristhianPonceKerpac/Documents/AA3-Level-Design/MyProject/Content/__ExternalActors__/NewMap/4/WY/QN4E5Q868JHZC469TRAMDV.uasset'
+[2026.05.22-11.13.03:751][549]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/7/M4/O9696D5JH01DAWK81Q68GQ
+[2026.05.22-11.13.03:752][549]LogSavePackage: Moving '../../../../../../Users/CristhianPonceKerpac/Documents/AA3-Level-Design/MyProject/Saved/O9696D5JH01DAWK81Q68GQ1B58BDDA4ACE9CC24F0CAEA3FD2CBFFD.tmp' to '../../../../../../Users/CristhianPonceKerpac/Documents/AA3-Level-Design/MyProject/Content/__ExternalActors__/NewMap/7/M4/O9696D5JH01DAWK81Q68GQ.uasset'
+[2026.05.22-11.13.03:757][549]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/E/AW/CE0U58QB55DU6R617V6FH6
+[2026.05.22-11.13.03:757][549]LogSavePackage: Moving '../../../../../../Users/CristhianPonceKerpac/Documents/AA3-Level-Design/MyProject/Saved/CE0U58QB55DU6R617V6FH6F3B12B44494E2343E6D07C9388CBFA78.tmp' to '../../../../../../Users/CristhianPonceKerpac/Documents/AA3-Level-Design/MyProject/Content/__ExternalActors__/NewMap/E/AW/CE0U58QB55DU6R617V6FH6.uasset'
+[2026.05.22-11.13.03:761][549]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/8/CU/9V7P5BMZXH5BAV7RVJA685
+[2026.05.22-11.13.03:761][549]LogSavePackage: Moving '../../../../../../Users/CristhianPonceKerpac/Documents/AA3-Level-Design/MyProject/Saved/9V7P5BMZXH5BAV7RVJA685847EEF5142281F678CF929BF65814F52.tmp' to '../../../../../../Users/CristhianPonceKerpac/Documents/AA3-Level-Design/MyProject/Content/__ExternalActors__/NewMap/8/CU/9V7P5BMZXH5BAV7RVJA685.uasset'
+[2026.05.22-11.13.03:766][549]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/7/OH/43KEWX2KCOTKMBNYYQPTB9
+[2026.05.22-11.13.03:766][549]LogSavePackage: Moving '../../../../../../Users/CristhianPonceKerpac/Documents/AA3-Level-Design/MyProject/Saved/43KEWX2KCOTKMBNYYQPTB92C4640C148A386D6A14D3ABAE92C403A.tmp' to '../../../../../../Users/CristhianPonceKerpac/Documents/AA3-Level-Design/MyProject/Content/__ExternalActors__/NewMap/7/OH/43KEWX2KCOTKMBNYYQPTB9.uasset'
+[2026.05.22-11.13.03:772][549]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/7/H7/7TZM24JFHDQKK7XFX83PRP
+[2026.05.22-11.13.03:772][549]LogSavePackage: Moving '../../../../../../Users/CristhianPonceKerpac/Documents/AA3-Level-Design/MyProject/Saved/7TZM24JFHDQKK7XFX83PRP9BC91B29461AEB24A7C384A25365167C.tmp' to '../../../../../../Users/CristhianPonceKerpac/Documents/AA3-Level-Design/MyProject/Content/__ExternalActors__/NewMap/7/H7/7TZM24JFHDQKK7XFX83PRP.uasset'
+[2026.05.22-11.13.03:788][549]LogFileHelpers: InternalPromptForCheckoutAndSave took 207.993 ms (total: 2.03 sec)
+[2026.05.22-11.13.03:871][549]LogContentValidation: Display: Starting to validate 16 assets
+[2026.05.22-11.13.03:871][549]LogContentValidation: Enabled validators:
+[2026.05.22-11.13.03:871][549]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.22-11.13.03:871][549]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.22-11.13.03:871][549]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.22-11.13.03:871][549]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.22-11.13.03:871][549]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.22-11.13.03:871][549]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.22-11.13.03:872][549]AssetCheck: /Game/NewMap Validating asset
+[2026.05.22-11.13.08:316][824]Cmd: DUPLICATE
+[2026.05.22-11.13.08:316][824]Cmd: ACTOR DUPLICATE
+[2026.05.22-11.13.41:780][ 88]Cmd: DUPLICATE
+[2026.05.22-11.13.41:781][ 88]Cmd: ACTOR DUPLICATE
+[2026.05.22-11.13.52:748][822]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 2/3 of stale message segements from Sender=10.40.3.50:59127, Sequence=0
+[2026.05.22-11.13.52:748][822]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 2/3 of stale message segements from Sender=10.40.3.50:59127, Sequence=0
+[2026.05.22-11.13.52:748][822]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 2/3 of stale message segements from Sender=10.40.3.50:59127, Sequence=0
+[2026.05.22-11.13.52:748][822]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 2/3 of stale message segements from Sender=10.40.3.50:59127, Sequence=0
+[2026.05.22-11.13.52:748][822]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/3 of stale message segements from Sender=10.40.3.50:59127, Sequence=0
+[2026.05.22-11.13.52:748][822]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 2/3 of stale message segements from Sender=10.40.3.50:59127, Sequence=0
+[2026.05.22-11.13.52:748][822]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 2/3 of stale message segements from Sender=10.40.3.50:59127, Sequence=0
+[2026.05.22-11.13.52:748][822]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 2/3 of stale message segements from Sender=10.40.3.50:59127, Sequence=0
+[2026.05.22-11.13.52:748][822]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 2/3 of stale message segements from Sender=10.40.3.50:59127, Sequence=0
+[2026.05.22-11.13.52:748][822]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 2/3 of stale message segements from Sender=10.40.3.50:59127, Sequence=0
+[2026.05.22-11.13.52:748][822]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 2/3 of stale message segements from Sender=10.40.3.50:59127, Sequence=0
+[2026.05.22-11.13.52:748][822]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 2/3 of stale message segements from Sender=10.40.3.50:59127, Sequence=0
+[2026.05.22-11.13.56:028][ 57]Cmd: DUPLICATE
+[2026.05.22-11.13.56:028][ 57]Cmd: ACTOR DUPLICATE
+[2026.05.22-11.14.01:671][449]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2093.924805
+[2026.05.22-11.14.01:813][459]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.22-11.14.01:813][459]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2094.050293, Update Interval: 333.677795
+[2026.05.22-11.16.26:169][226]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.22-11.16.26:250][226]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2026.05.22-11.16.26:264][226]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2026.05.22-11.16.26:277][226]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2026.05.22-11.16.26:281][226]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/2/6G/0Z0COAAYD8660HH36DX6LQ
+[2026.05.22-11.16.26:282][226]LogSavePackage: Moving '../../../../../../Users/CristhianPonceKerpac/Documents/AA3-Level-Design/MyProject/Saved/0Z0COAAYD8660HH36DX6LQ551AE1914532E55162990DADD9FCB4E9.tmp' to '../../../../../../Users/CristhianPonceKerpac/Documents/AA3-Level-Design/MyProject/Content/__ExternalActors__/NewMap/2/6G/0Z0COAAYD8660HH36DX6LQ.uasset'
+[2026.05.22-11.16.26:285][226]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/3/G8/CMY3XD6W51A0Z5FUTM9EM4
+[2026.05.22-11.16.26:286][226]LogSavePackage: Moving '../../../../../../Users/CristhianPonceKerpac/Documents/AA3-Level-Design/MyProject/Saved/CMY3XD6W51A0Z5FUTM9EM4753149F04F815A94C2DDE4939E60C935.tmp' to '../../../../../../Users/CristhianPonceKerpac/Documents/AA3-Level-Design/MyProject/Content/__ExternalActors__/NewMap/3/G8/CMY3XD6W51A0Z5FUTM9EM4.uasset'
+[2026.05.22-11.16.26:289][226]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/B/35/ULYX46FJNC4UDV8TI7U0ED
+[2026.05.22-11.16.26:290][226]LogSavePackage: Moving '../../../../../../Users/CristhianPonceKerpac/Documents/AA3-Level-Design/MyProject/Saved/ULYX46FJNC4UDV8TI7U0EDA6F7BB594E830336EDAFCA99477EE821.tmp' to '../../../../../../Users/CristhianPonceKerpac/Documents/AA3-Level-Design/MyProject/Content/__ExternalActors__/NewMap/B/35/ULYX46FJNC4UDV8TI7U0ED.uasset'
+[2026.05.22-11.16.26:293][226]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/E/MO/S8LGS9HVZC9R7D9MGYFCN6
+[2026.05.22-11.16.26:294][226]LogSavePackage: Moving '../../../../../../Users/CristhianPonceKerpac/Documents/AA3-Level-Design/MyProject/Saved/S8LGS9HVZC9R7D9MGYFCN6B37330164C5A3CA21408EFBB87D69847.tmp' to '../../../../../../Users/CristhianPonceKerpac/Documents/AA3-Level-Design/MyProject/Content/__ExternalActors__/NewMap/E/MO/S8LGS9HVZC9R7D9MGYFCN6.uasset'
+[2026.05.22-11.16.26:298][226]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/3/II/BPGPTZUKHJKTIPGKTJW0RM
+[2026.05.22-11.16.26:299][226]LogSavePackage: Moving '../../../../../../Users/CristhianPonceKerpac/Documents/AA3-Level-Design/MyProject/Saved/BPGPTZUKHJKTIPGKTJW0RMA942FE634B5B60F646BF8AA84668F28B.tmp' to '../../../../../../Users/CristhianPonceKerpac/Documents/AA3-Level-Design/MyProject/Content/__ExternalActors__/NewMap/3/II/BPGPTZUKHJKTIPGKTJW0RM.uasset'
+[2026.05.22-11.16.26:305][226]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/8/A2/BB9S1VGT5WVWT6RL9KT4Q8
+[2026.05.22-11.16.26:306][226]LogSavePackage: Moving '../../../../../../Users/CristhianPonceKerpac/Documents/AA3-Level-Design/MyProject/Saved/BB9S1VGT5WVWT6RL9KT4Q84D7FFC7743FCD50309915D83E61827F3.tmp' to '../../../../../../Users/CristhianPonceKerpac/Documents/AA3-Level-Design/MyProject/Content/__ExternalActors__/NewMap/8/A2/BB9S1VGT5WVWT6RL9KT4Q8.uasset'
+[2026.05.22-11.16.26:310][226]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/8/GG/0UBF9OZ803YSEIDU9UUM8C
+[2026.05.22-11.16.26:311][226]LogSavePackage: Moving '../../../../../../Users/CristhianPonceKerpac/Documents/AA3-Level-Design/MyProject/Saved/0UBF9OZ803YSEIDU9UUM8C3F849F424F93AFEB15A0EA8B326F8B5E.tmp' to '../../../../../../Users/CristhianPonceKerpac/Documents/AA3-Level-Design/MyProject/Content/__ExternalActors__/NewMap/8/GG/0UBF9OZ803YSEIDU9UUM8C.uasset'
+[2026.05.22-11.16.26:316][226]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/B/BV/JVUZKTE38U6CVYTY7GHM6M
+[2026.05.22-11.16.26:317][226]LogSavePackage: Moving '../../../../../../Users/CristhianPonceKerpac/Documents/AA3-Level-Design/MyProject/Saved/JVUZKTE38U6CVYTY7GHM6M267A93E3416363D9318C5DA3A23AD804.tmp' to '../../../../../../Users/CristhianPonceKerpac/Documents/AA3-Level-Design/MyProject/Content/__ExternalActors__/NewMap/B/BV/JVUZKTE38U6CVYTY7GHM6M.uasset'
+[2026.05.22-11.16.26:321][226]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/C/Y7/WJTXTBOP49X29UJVGK173R
+[2026.05.22-11.16.26:322][226]LogSavePackage: Moving '../../../../../../Users/CristhianPonceKerpac/Documents/AA3-Level-Design/MyProject/Saved/WJTXTBOP49X29UJVGK173RDC12566A481A5A0C68DEC89C9AF1D7D5.tmp' to '../../../../../../Users/CristhianPonceKerpac/Documents/AA3-Level-Design/MyProject/Content/__ExternalActors__/NewMap/C/Y7/WJTXTBOP49X29UJVGK173R.uasset'
+[2026.05.22-11.16.26:326][226]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/E/7O/R6IRA03ZNA2952DOEEVNW4
+[2026.05.22-11.16.26:327][226]LogSavePackage: Moving '../../../../../../Users/CristhianPonceKerpac/Documents/AA3-Level-Design/MyProject/Saved/R6IRA03ZNA2952DOEEVNW464DB76F34C2C1EB968F363A22E2EBEA4.tmp' to '../../../../../../Users/CristhianPonceKerpac/Documents/AA3-Level-Design/MyProject/Content/__ExternalActors__/NewMap/E/7O/R6IRA03ZNA2952DOEEVNW4.uasset'
+[2026.05.22-11.16.26:331][226]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/E/MT/L6K0WBRII1USFJ1Q718KZ6
+[2026.05.22-11.16.26:332][226]LogSavePackage: Moving '../../../../../../Users/CristhianPonceKerpac/Documents/AA3-Level-Design/MyProject/Saved/L6K0WBRII1USFJ1Q718KZ6054643EA464CB8275B469DAF570392A3.tmp' to '../../../../../../Users/CristhianPonceKerpac/Documents/AA3-Level-Design/MyProject/Content/__ExternalActors__/NewMap/E/MT/L6K0WBRII1USFJ1Q718KZ6.uasset'
+[2026.05.22-11.16.26:337][226]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/4/WY/QN4E5Q868JHZC469TRAMDV
+[2026.05.22-11.16.26:338][226]LogSavePackage: Moving '../../../../../../Users/CristhianPonceKerpac/Documents/AA3-Level-Design/MyProject/Saved/QN4E5Q868JHZC469TRAMDVD1E187374E157225E21EE2914AA9721D.tmp' to '../../../../../../Users/CristhianPonceKerpac/Documents/AA3-Level-Design/MyProject/Content/__ExternalActors__/NewMap/4/WY/QN4E5Q868JHZC469TRAMDV.uasset'
+[2026.05.22-11.16.26:341][226]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/7/M4/O9696D5JH01DAWK81Q68GQ
+[2026.05.22-11.16.26:342][226]LogSavePackage: Moving '../../../../../../Users/CristhianPonceKerpac/Documents/AA3-Level-Design/MyProject/Saved/O9696D5JH01DAWK81Q68GQ2F2A033547ED686D9188818A4B40AD62.tmp' to '../../../../../../Users/CristhianPonceKerpac/Documents/AA3-Level-Design/MyProject/Content/__ExternalActors__/NewMap/7/M4/O9696D5JH01DAWK81Q68GQ.uasset'
+[2026.05.22-11.16.26:347][226]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/E/AW/CE0U58QB55DU6R617V6FH6
+[2026.05.22-11.16.26:348][226]LogSavePackage: Moving '../../../../../../Users/CristhianPonceKerpac/Documents/AA3-Level-Design/MyProject/Saved/CE0U58QB55DU6R617V6FH63269A20647F32A331F489F895F5CF0AD.tmp' to '../../../../../../Users/CristhianPonceKerpac/Documents/AA3-Level-Design/MyProject/Content/__ExternalActors__/NewMap/E/AW/CE0U58QB55DU6R617V6FH6.uasset'
+[2026.05.22-11.16.26:352][226]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/8/CU/9V7P5BMZXH5BAV7RVJA685
+[2026.05.22-11.16.26:353][226]LogSavePackage: Moving '../../../../../../Users/CristhianPonceKerpac/Documents/AA3-Level-Design/MyProject/Saved/9V7P5BMZXH5BAV7RVJA685A32032CD40349C69FE4215928E0258BF.tmp' to '../../../../../../Users/CristhianPonceKerpac/Documents/AA3-Level-Design/MyProject/Content/__ExternalActors__/NewMap/8/CU/9V7P5BMZXH5BAV7RVJA685.uasset'
+[2026.05.22-11.16.26:358][226]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/7/L6/Y3YEFL17F5PZTMLH1V1G9O
+[2026.05.22-11.16.26:358][226]LogSavePackage: Moving '../../../../../../Users/CristhianPonceKerpac/Documents/AA3-Level-Design/MyProject/Saved/Y3YEFL17F5PZTMLH1V1G9OC9988873496073C6A82A05B8E816204F.tmp' to '../../../../../../Users/CristhianPonceKerpac/Documents/AA3-Level-Design/MyProject/Content/__ExternalActors__/NewMap/7/L6/Y3YEFL17F5PZTMLH1V1G9O.uasset'
+[2026.05.22-11.16.26:364][226]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/7/II/UN8N3CTPGAXLR337NKNWGU
+[2026.05.22-11.16.26:364][226]LogSavePackage: Moving '../../../../../../Users/CristhianPonceKerpac/Documents/AA3-Level-Design/MyProject/Saved/UN8N3CTPGAXLR337NKNWGUA255C0294906D39C2D13239FA07FE3CD.tmp' to '../../../../../../Users/CristhianPonceKerpac/Documents/AA3-Level-Design/MyProject/Content/__ExternalActors__/NewMap/7/II/UN8N3CTPGAXLR337NKNWGU.uasset'
+[2026.05.22-11.16.26:368][226]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/B/85/PFH14UQ8SQYALWDH2GC0Z8
+[2026.05.22-11.16.26:368][226]LogSavePackage: Moving '../../../../../../Users/CristhianPonceKerpac/Documents/AA3-Level-Design/MyProject/Saved/PFH14UQ8SQYALWDH2GC0Z850BE927A411B9DB04DCF9CB0CF6B6688.tmp' to '../../../../../../Users/CristhianPonceKerpac/Documents/AA3-Level-Design/MyProject/Content/__ExternalActors__/NewMap/B/85/PFH14UQ8SQYALWDH2GC0Z8.uasset'
+[2026.05.22-11.16.26:386][226]LogFileHelpers: InternalPromptForCheckoutAndSave took 217.474 ms (total: 2.25 sec)
+[2026.05.22-11.16.26:455][226]LogContentValidation: Display: Starting to validate 18 assets
+[2026.05.22-11.16.26:455][226]LogContentValidation: Enabled validators:
+[2026.05.22-11.16.26:455][226]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.22-11.16.26:455][226]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.22-11.16.26:455][226]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.22-11.16.26:455][226]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.22-11.16.26:455][226]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.22-11.16.26:455][226]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.22-11.16.26:456][226]AssetCheck: /Game/NewMap Validating asset
+[2026.05.22-11.16.52:214][ 91]LogRenderer: Display: Virtual shadow map cache invalidated for light due to clipmap level count change
+[2026.05.22-11.16.54:630][258]LogRenderer: Display: Virtual shadow map cache invalidated for light due to clipmap level count change
+[2026.05.22-11.16.55:114][293]Cmd: DUPLICATE
+[2026.05.22-11.16.55:114][293]Cmd: ACTOR DUPLICATE
+[2026.05.22-11.17.18:527][815]Cmd: DUPLICATE
+[2026.05.22-11.17.18:527][815]Cmd: ACTOR DUPLICATE
+[2026.05.22-11.17.33:237][736]LogRenderer: Display: Virtual shadow map cache invalidated for light due to clipmap level count change
+[2026.05.22-11.17.34:494][814]LogRenderer: Display: Virtual shadow map cache invalidated for light due to clipmap level count change
+[2026.05.22-11.17.35:262][856]LogRenderer: Display: Virtual shadow map cache invalidated for light due to clipmap level count change
+[2026.05.22-11.17.35:708][889]LogRenderer: Display: Virtual shadow map cache invalidated for light due to clipmap level count change
+[2026.05.22-11.17.42:557][384]LogRenderer: Display: Virtual shadow map cache invalidated for light due to clipmap level count change
+[2026.05.22-11.17.44:892][552]Cmd: DUPLICATE
+[2026.05.22-11.17.44:893][552]Cmd: ACTOR DUPLICATE
+[2026.05.22-11.17.51:545][993]Cmd: DUPLICATE
+[2026.05.22-11.17.51:545][993]Cmd: ACTOR DUPLICATE
+[2026.05.22-11.18.20:690][946]LogRenderer: Display: Virtual shadow map cache invalidated for light due to clipmap level count change
+[2026.05.22-11.18.21:892][ 28]LogRenderer: Display: Virtual shadow map cache invalidated for light due to clipmap level count change
+[2026.05.22-11.18.23:426][135]LogRenderer: Display: Virtual shadow map cache invalidated for light due to clipmap level count change
+[2026.05.22-11.18.25:082][244]Cmd: DUPLICATE
+[2026.05.22-11.18.25:082][244]Cmd: ACTOR DUPLICATE
+[2026.05.22-11.18.44:586][431]Cmd: DUPLICATE
+[2026.05.22-11.18.44:586][431]Cmd: ACTOR DUPLICATE
+[2026.05.22-11.18.50:403][799]LogRenderer: Display: Virtual shadow map cache invalidated for light due to clipmap level count change
+[2026.05.22-11.18.59:621][389]Cmd: DUPLICATE
+[2026.05.22-11.18.59:621][389]Cmd: ACTOR DUPLICATE
+[2026.05.22-11.19.08:246][905]Cmd: TRANSACTION UNDO
+[2026.05.22-11.19.08:246][905]LogEditorTransaction: Undo Move Elements
+[2026.05.22-11.20.09:773][272]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.22-11.20.09:854][272]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2026.05.22-11.20.09:868][272]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2026.05.22-11.20.09:881][272]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2026.05.22-11.20.09:885][272]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/2/KN/35FHIRWE6AQZBEQY5E3JXW
+[2026.05.22-11.20.09:886][272]LogSavePackage: Moving '../../../../../../Users/CristhianPonceKerpac/Documents/AA3-Level-Design/MyProject/Saved/35FHIRWE6AQZBEQY5E3JXWFA0CAD914033FACCFA13C795A543BC18.tmp' to '../../../../../../Users/CristhianPonceKerpac/Documents/AA3-Level-Design/MyProject/Content/__ExternalActors__/NewMap/2/KN/35FHIRWE6AQZBEQY5E3JXW.uasset'
+[2026.05.22-11.20.09:889][272]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/5/2P/JGOGLM3XO6AK1NHOT4ANZA
+[2026.05.22-11.20.09:890][272]LogSavePackage: Moving '../../../../../../Users/CristhianPonceKerpac/Documents/AA3-Level-Design/MyProject/Saved/JGOGLM3XO6AK1NHOT4ANZA5CD2133D4E9A24A8807D0AAE5CA7D4FB.tmp' to '../../../../../../Users/CristhianPonceKerpac/Documents/AA3-Level-Design/MyProject/Content/__ExternalActors__/NewMap/5/2P/JGOGLM3XO6AK1NHOT4ANZA.uasset'
+[2026.05.22-11.20.09:893][272]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/9/E8/KYYJHV03OSDYBIDG9PKW1D
+[2026.05.22-11.20.09:893][272]LogSavePackage: Moving '../../../../../../Users/CristhianPonceKerpac/Documents/AA3-Level-Design/MyProject/Saved/KYYJHV03OSDYBIDG9PKW1DDD80659F405C97CC959322B2F8980071.tmp' to '../../../../../../Users/CristhianPonceKerpac/Documents/AA3-Level-Design/MyProject/Content/__ExternalActors__/NewMap/9/E8/KYYJHV03OSDYBIDG9PKW1D.uasset'
+[2026.05.22-11.20.09:897][272]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/D/8L/SKCLDBP25PTB7WX7YPLEPE
+[2026.05.22-11.20.09:897][272]LogSavePackage: Moving '../../../../../../Users/CristhianPonceKerpac/Documents/AA3-Level-Design/MyProject/Saved/SKCLDBP25PTB7WX7YPLEPED21E673E43330339231DD69AD3EDAF0B.tmp' to '../../../../../../Users/CristhianPonceKerpac/Documents/AA3-Level-Design/MyProject/Content/__ExternalActors__/NewMap/D/8L/SKCLDBP25PTB7WX7YPLEPE.uasset'
+[2026.05.22-11.20.09:901][272]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/8/Y4/XM0T9SWKA7JAA5W0FP1BLM
+[2026.05.22-11.20.09:901][272]LogSavePackage: Moving '../../../../../../Users/CristhianPonceKerpac/Documents/AA3-Level-Design/MyProject/Saved/XM0T9SWKA7JAA5W0FP1BLM0707EB784ECEEF115BF5AB8DE373B71A.tmp' to '../../../../../../Users/CristhianPonceKerpac/Documents/AA3-Level-Design/MyProject/Content/__ExternalActors__/NewMap/8/Y4/XM0T9SWKA7JAA5W0FP1BLM.uasset'
+[2026.05.22-11.20.09:906][272]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/D/X7/K9O0U50EQ0346YFYMGPZDB
+[2026.05.22-11.20.09:906][272]LogSavePackage: Moving '../../../../../../Users/CristhianPonceKerpac/Documents/AA3-Level-Design/MyProject/Saved/K9O0U50EQ0346YFYMGPZDBF165B33844FB2B7BB678C38C359F7046.tmp' to '../../../../../../Users/CristhianPonceKerpac/Documents/AA3-Level-Design/MyProject/Content/__ExternalActors__/NewMap/D/X7/K9O0U50EQ0346YFYMGPZDB.uasset'
+[2026.05.22-11.20.09:911][272]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/8/UR/67BGU9I89CU8SEFZS6MEIC
+[2026.05.22-11.20.09:911][272]LogSavePackage: Moving '../../../../../../Users/CristhianPonceKerpac/Documents/AA3-Level-Design/MyProject/Saved/67BGU9I89CU8SEFZS6MEIC0212E1964A9CF5572FC230863CA38B80.tmp' to '../../../../../../Users/CristhianPonceKerpac/Documents/AA3-Level-Design/MyProject/Content/__ExternalActors__/NewMap/8/UR/67BGU9I89CU8SEFZS6MEIC.uasset'
+[2026.05.22-11.20.09:915][272]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/1/CW/YB9GTQKQFWBWZ1W6SIFEYZ
+[2026.05.22-11.20.09:915][272]LogSavePackage: Moving '../../../../../../Users/CristhianPonceKerpac/Documents/AA3-Level-Design/MyProject/Saved/YB9GTQKQFWBWZ1W6SIFEYZ846E1452443375476B0019A5AB3E09C6.tmp' to '../../../../../../Users/CristhianPonceKerpac/Documents/AA3-Level-Design/MyProject/Content/__ExternalActors__/NewMap/1/CW/YB9GTQKQFWBWZ1W6SIFEYZ.uasset'
+[2026.05.22-11.20.09:922][272]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/A/C1/2FS2HMN2P7MTFANXV8CVK9
+[2026.05.22-11.20.09:922][272]LogSavePackage: Moving '../../../../../../Users/CristhianPonceKerpac/Documents/AA3-Level-Design/MyProject/Saved/2FS2HMN2P7MTFANXV8CVK9053B33E945B986358500E1A591A22E8F.tmp' to '../../../../../../Users/CristhianPonceKerpac/Documents/AA3-Level-Design/MyProject/Content/__ExternalActors__/NewMap/A/C1/2FS2HMN2P7MTFANXV8CVK9.uasset'
+[2026.05.22-11.20.09:944][272]LogFileHelpers: InternalPromptForCheckoutAndSave took 171.178 ms (total: 2.42 sec)
+[2026.05.22-11.20.10:015][272]LogContentValidation: Display: Starting to validate 9 assets
+[2026.05.22-11.20.10:015][272]LogContentValidation: Enabled validators:
+[2026.05.22-11.20.10:015][272]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.22-11.20.10:015][272]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.22-11.20.10:015][272]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.22-11.20.10:015][272]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.22-11.20.10:015][272]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.22-11.20.10:015][272]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.22-11.20.10:015][272]AssetCheck: /Game/NewMap Validating asset
+[2026.05.22-11.20.15:991][701]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.22-11.20.16:063][701]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2026.05.22-11.20.16:073][701]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2026.05.22-11.20.16:087][701]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2026.05.22-11.20.16:090][701]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/5/2P/JGOGLM3XO6AK1NHOT4ANZA
+[2026.05.22-11.20.16:091][701]LogSavePackage: Moving '../../../../../../Users/CristhianPonceKerpac/Documents/AA3-Level-Design/MyProject/Saved/JGOGLM3XO6AK1NHOT4ANZAAF81D9D14961D26D9F41128027C076B8.tmp' to '../../../../../../Users/CristhianPonceKerpac/Documents/AA3-Level-Design/MyProject/Content/__ExternalActors__/NewMap/5/2P/JGOGLM3XO6AK1NHOT4ANZA.uasset'
+[2026.05.22-11.20.16:114][701]LogFileHelpers: InternalPromptForCheckoutAndSave took 122.943 ms (total: 2.54 sec)
+[2026.05.22-11.20.16:181][701]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.22-11.20.16:181][701]LogContentValidation: Enabled validators:
+[2026.05.22-11.20.16:181][701]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.22-11.20.16:181][701]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.22-11.20.16:181][701]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.22-11.20.16:181][701]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.22-11.20.16:181][701]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.22-11.20.16:181][701]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.22-11.20.16:181][701]AssetCheck: /Game/NewMap Validating asset
+[2026.05.22-11.20.22:789][192]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2475.047363
+[2026.05.22-11.20.23:101][215]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.22-11.20.23:102][215]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2475.346436, Update Interval: 329.631042
+[2026.05.22-11.21.19:366][223]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2026.05.22-11.21.19:368][223]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/NewMap' took 0.015
+[2026.05.22-11.21.19:368][223]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/MatsAndTextures/M_Wood] ([1] browsable assets)...
+[2026.05.22-11.21.19:368][223]OBJ SavePackage: Finished generating thumbnails for package [/Game/MatsAndTextures/M_Wood]
+[2026.05.22-11.21.19:370][223]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/MatsAndTextures/M_Wood_Auto2
+[2026.05.22-11.21.19:370][223]LogSavePackage: Moving '../../../../../../Users/CristhianPonceKerpac/Documents/AA3-Level-Design/MyProject/Saved/M_Wood_Auto24F18BA154CD76AC786B1EA8D4D7C5D39.tmp' to '../../../../../../Users/CristhianPonceKerpac/Documents/AA3-Level-Design/MyProject/Saved/Autosaves/Game/MatsAndTextures/M_Wood_Auto2.uasset'
+[2026.05.22-11.21.19:372][223]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/MatsAndTextures/M_Marmol] ([1] browsable assets)...
+[2026.05.22-11.21.19:372][223]OBJ SavePackage: Finished generating thumbnails for package [/Game/MatsAndTextures/M_Marmol]
+[2026.05.22-11.21.19:374][223]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/MatsAndTextures/M_Marmol_Auto2
+[2026.05.22-11.21.19:374][223]LogSavePackage: Moving '../../../../../../Users/CristhianPonceKerpac/Documents/AA3-Level-Design/MyProject/Saved/M_Marmol_Auto20FCAA592441A156129E8DC99D89930F9.tmp' to '../../../../../../Users/CristhianPonceKerpac/Documents/AA3-Level-Design/MyProject/Saved/Autosaves/Game/MatsAndTextures/M_Marmol_Auto2.uasset'
+[2026.05.22-11.21.19:375][223]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/MatsAndTextures/M_Metal] ([1] browsable assets)...
+[2026.05.22-11.21.19:375][223]OBJ SavePackage: Finished generating thumbnails for package [/Game/MatsAndTextures/M_Metal]
+[2026.05.22-11.21.19:377][223]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/MatsAndTextures/M_Metal_Auto2
+[2026.05.22-11.21.19:378][223]LogSavePackage: Moving '../../../../../../Users/CristhianPonceKerpac/Documents/AA3-Level-Design/MyProject/Saved/M_Metal_Auto23BB19C6B4E6952C442DB048BBDA075C0.tmp' to '../../../../../../Users/CristhianPonceKerpac/Documents/AA3-Level-Design/MyProject/Saved/Autosaves/Game/MatsAndTextures/M_Metal_Auto2.uasset'
+[2026.05.22-11.21.19:380][223]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/CC0_-_Paper/cc0_paper_texture_0] ([1] browsable assets)...
+[2026.05.22-11.21.19:383][223]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Fab/CC0_-_Paper/cc0_paper_texture_0.cc0_paper_texture_0]
+[2026.05.22-11.21.19:383][223]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/CC0_-_Paper/cc0_paper_texture_0]
+[2026.05.22-11.21.19:488][223]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/CC0_-_Paper/cc0_paper_texture_0_Auto2
+[2026.05.22-11.21.19:488][223]LogSavePackage: Moving '../../../../../../Users/CristhianPonceKerpac/Documents/AA3-Level-Design/MyProject/Saved/cc0_paper_texture_0_Auto221E2D88446A8D1A428EBF9AFEF0CCCD6.tmp' to '../../../../../../Users/CristhianPonceKerpac/Documents/AA3-Level-Design/MyProject/Saved/Autosaves/Game/Fab/CC0_-_Paper/cc0_paper_texture_0_Auto2.uasset'
+[2026.05.22-11.21.19:490][223]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/CC0_-_Paper/cc0_paper_texture_1] ([1] browsable assets)...
+[2026.05.22-11.21.19:491][223]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Fab/CC0_-_Paper/cc0_paper_texture_1.cc0_paper_texture_1]
+[2026.05.22-11.21.19:491][223]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/CC0_-_Paper/cc0_paper_texture_1]
+[2026.05.22-11.21.19:587][223]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/CC0_-_Paper/cc0_paper_texture_1_Auto2
+[2026.05.22-11.21.19:587][223]LogSavePackage: Moving '../../../../../../Users/CristhianPonceKerpac/Documents/AA3-Level-Design/MyProject/Saved/cc0_paper_texture_1_Auto24377893E4FB0F3C255F40696D69C758E.tmp' to '../../../../../../Users/CristhianPonceKerpac/Documents/AA3-Level-Design/MyProject/Saved/Autosaves/Game/Fab/CC0_-_Paper/cc0_paper_texture_1_Auto2.uasset'
+[2026.05.22-11.21.19:589][223]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/CC0_-_Paper/cc0_paper_texture_2] ([1] browsable assets)...
+[2026.05.22-11.21.19:591][223]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Fab/CC0_-_Paper/cc0_paper_texture_2.cc0_paper_texture_2]
+[2026.05.22-11.21.19:591][223]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/CC0_-_Paper/cc0_paper_texture_2]
+[2026.05.22-11.21.19:687][223]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/CC0_-_Paper/cc0_paper_texture_2_Auto2
+[2026.05.22-11.21.19:687][223]LogSavePackage: Moving '../../../../../../Users/CristhianPonceKerpac/Documents/AA3-Level-Design/MyProject/Saved/cc0_paper_texture_2_Auto2CEF4A7A74D877937F9A979B93221BE2E.tmp' to '../../../../../../Users/CristhianPonceKerpac/Documents/AA3-Level-Design/MyProject/Saved/Autosaves/Game/Fab/CC0_-_Paper/cc0_paper_texture_2_Auto2.uasset'
+[2026.05.22-11.21.19:689][223]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/CC0_-_Paper/Paper] ([1] browsable assets)...
+[2026.05.22-11.21.19:737][223]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/Fab/CC0_-_Paper/Paper.Paper]
+[2026.05.22-11.21.19:737][223]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/CC0_-_Paper/Paper]
+[2026.05.22-11.21.19:739][223]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/CC0_-_Paper/Paper_Auto2
+[2026.05.22-11.21.19:739][223]LogSavePackage: Moving '../../../../../../Users/CristhianPonceKerpac/Documents/AA3-Level-Design/MyProject/Saved/Paper_Auto2E8ECB79E4AD59F91CE91F3A6C269F89C.tmp' to '../../../../../../Users/CristhianPonceKerpac/Documents/AA3-Level-Design/MyProject/Saved/Autosaves/Game/Fab/CC0_-_Paper/Paper_Auto2.uasset'
+[2026.05.22-11.21.19:740][223]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/CC0_-_Paper/Paper2] ([1] browsable assets)...
+[2026.05.22-11.21.19:753][223]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/Fab/CC0_-_Paper/Paper2.Paper2]
+[2026.05.22-11.21.19:753][223]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/CC0_-_Paper/Paper2]
+[2026.05.22-11.21.19:756][223]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/CC0_-_Paper/Paper2_Auto2
+[2026.05.22-11.21.19:756][223]LogSavePackage: Moving '../../../../../../Users/CristhianPonceKerpac/Documents/AA3-Level-Design/MyProject/Saved/Paper2_Auto2A7A9520146F8E3F72D1CC68FFA7AF39B.tmp' to '../../../../../../Users/CristhianPonceKerpac/Documents/AA3-Level-Design/MyProject/Saved/Autosaves/Game/Fab/CC0_-_Paper/Paper2_Auto2.uasset'
+[2026.05.22-11.21.19:757][223]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/CC0_-_Paper/Material_27] ([1] browsable assets)...
+[2026.05.22-11.21.19:770][223]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/Fab/CC0_-_Paper/Material_27.Material_27]
+[2026.05.22-11.21.19:770][223]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/CC0_-_Paper/Material_27]
+[2026.05.22-11.21.19:772][223]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/CC0_-_Paper/Material_27_Auto2
+[2026.05.22-11.21.19:772][223]LogSavePackage: Moving '../../../../../../Users/CristhianPonceKerpac/Documents/AA3-Level-Design/MyProject/Saved/Material_27_Auto2C4B2273445DCB3491EFE3F99E0D6D121.tmp' to '../../../../../../Users/CristhianPonceKerpac/Documents/AA3-Level-Design/MyProject/Saved/Autosaves/Game/Fab/CC0_-_Paper/Material_27_Auto2.uasset'
+[2026.05.22-11.21.19:774][223]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/CC0_-_Paper/cc0_paper] ([1] browsable assets)...
+[2026.05.22-11.21.19:786][223]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Fab/CC0_-_Paper/cc0_paper.cc0_paper]
+[2026.05.22-11.21.19:786][223]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/CC0_-_Paper/cc0_paper]
+[2026.05.22-11.21.19:794][223]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/CC0_-_Paper/cc0_paper_Auto2
+[2026.05.22-11.21.19:794][223]LogSavePackage: Moving '../../../../../../Users/CristhianPonceKerpac/Documents/AA3-Level-Design/MyProject/Saved/cc0_paper_Auto24A4EAC434ACF5358839D92B796352F0C.tmp' to '../../../../../../Users/CristhianPonceKerpac/Documents/AA3-Level-Design/MyProject/Saved/Autosaves/Game/Fab/CC0_-_Paper/cc0_paper_Auto2.uasset'
+[2026.05.22-11.21.19:795][223]LogFileHelpers: Auto-saving content packages took 0.427
+[2026.05.22-11.21.52:800][586]Cmd: DUPLICATE
+[2026.05.22-11.21.52:801][586]Cmd: ACTOR DUPLICATE
+[2026.05.22-11.22.12:461][907]Cmd: DUPLICATE
+[2026.05.22-11.22.12:461][907]Cmd: ACTOR DUPLICATE
+[2026.05.22-11.22.33:135][208]Cmd: DUPLICATE
+[2026.05.22-11.22.33:135][208]Cmd: ACTOR DUPLICATE
+[2026.05.22-11.23.01:052][  6]Cmd: DUPLICATE
+[2026.05.22-11.23.01:052][  6]Cmd: ACTOR DUPLICATE
+[2026.05.22-11.23.23:254][523]Cmd: DUPLICATE
+[2026.05.22-11.23.23:254][523]Cmd: ACTOR DUPLICATE
+[2026.05.22-11.23.47:899][136]Cmd: DUPLICATE
+[2026.05.22-11.23.47:899][136]Cmd: ACTOR DUPLICATE
+[2026.05.22-11.24.00:938][  5]Cmd: DUPLICATE
+[2026.05.22-11.24.00:938][  5]Cmd: ACTOR DUPLICATE
+[2026.05.22-11.24.28:456][805]Cmd: DUPLICATE
+[2026.05.22-11.24.28:456][805]Cmd: ACTOR DUPLICATE
+[2026.05.22-11.24.36:666][358]Cmd: DUPLICATE
+[2026.05.22-11.24.36:666][358]Cmd: ACTOR DUPLICATE
+[2026.05.22-11.24.58:790][823]Cmd: TRANSACTION UNDO
+[2026.05.22-11.24.58:790][823]LogEditorTransaction: Undo Move Elements
+[2026.05.22-11.25.00:315][894]Cmd: DUPLICATE
+[2026.05.22-11.25.00:315][894]Cmd: ACTOR DUPLICATE
+[2026.05.22-11.25.04:887][197]Cmd: DUPLICATE
+[2026.05.22-11.25.04:887][197]Cmd: ACTOR DUPLICATE
+[2026.05.22-11.25.12:090][704]Cmd: DUPLICATE
+[2026.05.22-11.25.12:090][704]Cmd: ACTOR DUPLICATE
+[2026.05.22-11.25.23:488][455]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.22-11.25.23:562][455]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2026.05.22-11.25.23:575][455]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2026.05.22-11.25.23:587][455]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2026.05.22-11.25.23:589][455]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/D/8L/SKCLDBP25PTB7WX7YPLEPE
+[2026.05.22-11.25.23:589][455]LogSavePackage: Moving '../../../../../../Users/CristhianPonceKerpac/Documents/AA3-Level-Design/MyProject/Saved/SKCLDBP25PTB7WX7YPLEPE7B5C1EF14F215BD129DEF8A4FCE84BAD.tmp' to '../../../../../../Users/CristhianPonceKerpac/Documents/AA3-Level-Design/MyProject/Content/__ExternalActors__/NewMap/D/8L/SKCLDBP25PTB7WX7YPLEPE.uasset'
+[2026.05.22-11.25.23:593][455]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/8/Y4/XM0T9SWKA7JAA5W0FP1BLM
+[2026.05.22-11.25.23:594][455]LogSavePackage: Moving '../../../../../../Users/CristhianPonceKerpac/Documents/AA3-Level-Design/MyProject/Saved/XM0T9SWKA7JAA5W0FP1BLMFBD929754AB4C94B20FD7182D394430E.tmp' to '../../../../../../Users/CristhianPonceKerpac/Documents/AA3-Level-Design/MyProject/Content/__ExternalActors__/NewMap/8/Y4/XM0T9SWKA7JAA5W0FP1BLM.uasset'
+[2026.05.22-11.25.23:597][455]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/6/OJ/R0LWSLAMC8F952IZZJG37H
+[2026.05.22-11.25.23:597][455]LogSavePackage: Moving '../../../../../../Users/CristhianPonceKerpac/Documents/AA3-Level-Design/MyProject/Saved/R0LWSLAMC8F952IZZJG37H7B34D80044A925BEEB23F88365D4E292.tmp' to '../../../../../../Users/CristhianPonceKerpac/Documents/AA3-Level-Design/MyProject/Content/__ExternalActors__/NewMap/6/OJ/R0LWSLAMC8F952IZZJG37H.uasset'
+[2026.05.22-11.25.23:600][455]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/4/7Q/JC4YIXCD9BH36PA02ZF4QW
+[2026.05.22-11.25.23:600][455]LogSavePackage: Moving '../../../../../../Users/CristhianPonceKerpac/Documents/AA3-Level-Design/MyProject/Saved/JC4YIXCD9BH36PA02ZF4QW9455BF68465CC26F13E932AD68217384.tmp' to '../../../../../../Users/CristhianPonceKerpac/Documents/AA3-Level-Design/MyProject/Content/__ExternalActors__/NewMap/4/7Q/JC4YIXCD9BH36PA02ZF4QW.uasset'
+[2026.05.22-11.25.23:604][455]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/E/FO/6P7QN1BLOJA3ZN69JZFJX6
+[2026.05.22-11.25.23:604][455]LogSavePackage: Moving '../../../../../../Users/CristhianPonceKerpac/Documents/AA3-Level-Design/MyProject/Saved/6P7QN1BLOJA3ZN69JZFJX6AAB2477F4175F95F301C338261841BA2.tmp' to '../../../../../../Users/CristhianPonceKerpac/Documents/AA3-Level-Design/MyProject/Content/__ExternalActors__/NewMap/E/FO/6P7QN1BLOJA3ZN69JZFJX6.uasset'
+[2026.05.22-11.25.23:609][455]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/4/BW/216SVSXID6D04SJ0NCSLR1
+[2026.05.22-11.25.23:609][455]LogSavePackage: Moving '../../../../../../Users/CristhianPonceKerpac/Documents/AA3-Level-Design/MyProject/Saved/216SVSXID6D04SJ0NCSLR10CE38D98488E1690AC1897870D6A3982.tmp' to '../../../../../../Users/CristhianPonceKerpac/Documents/AA3-Level-Design/MyProject/Content/__ExternalActors__/NewMap/4/BW/216SVSXID6D04SJ0NCSLR1.uasset'
+[2026.05.22-11.25.23:616][455]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/B/PN/LKR0YCOW9AL9JGVR6OLDJI
+[2026.05.22-11.25.23:616][455]LogSavePackage: Moving '../../../../../../Users/CristhianPonceKerpac/Documents/AA3-Level-Design/MyProject/Saved/LKR0YCOW9AL9JGVR6OLDJI506D7D7048E89BB60212CEBCC57D384E.tmp' to '../../../../../../Users/CristhianPonceKerpac/Documents/AA3-Level-Design/MyProject/Content/__ExternalActors__/NewMap/B/PN/LKR0YCOW9AL9JGVR6OLDJI.uasset'
+[2026.05.22-11.25.23:620][455]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/8/H3/2SSWRJJY8BI1CD07BZMILT
+[2026.05.22-11.25.23:620][455]LogSavePackage: Moving '../../../../../../Users/CristhianPonceKerpac/Documents/AA3-Level-Design/MyProject/Saved/2SSWRJJY8BI1CD07BZMILT41B8BE33434838F1E2A669919C9AE50C.tmp' to '../../../../../../Users/CristhianPonceKerpac/Documents/AA3-Level-Design/MyProject/Content/__ExternalActors__/NewMap/8/H3/2SSWRJJY8BI1CD07BZMILT.uasset'
+[2026.05.22-11.25.23:624][455]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/F/10/HJNYSHRSP70C43LAG5A6YF
+[2026.05.22-11.25.23:624][455]LogSavePackage: Moving '../../../../../../Users/CristhianPonceKerpac/Documents/AA3-Level-Design/MyProject/Saved/HJNYSHRSP70C43LAG5A6YFD09897BA4C81356A1BA35387DB7CC985.tmp' to '../../../../../../Users/CristhianPonceKerpac/Documents/AA3-Level-Design/MyProject/Content/__ExternalActors__/NewMap/F/10/HJNYSHRSP70C43LAG5A6YF.uasset'
+[2026.05.22-11.25.23:630][455]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/E/D3/YI1AXZOJKS7LMBI6HGH4IW
+[2026.05.22-11.25.23:630][455]LogSavePackage: Moving '../../../../../../Users/CristhianPonceKerpac/Documents/AA3-Level-Design/MyProject/Saved/YI1AXZOJKS7LMBI6HGH4IW564D268B46AD9B1DBBF3169F0E0DC973.tmp' to '../../../../../../Users/CristhianPonceKerpac/Documents/AA3-Level-Design/MyProject/Content/__ExternalActors__/NewMap/E/D3/YI1AXZOJKS7LMBI6HGH4IW.uasset'
+[2026.05.22-11.25.23:634][455]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/3/5B/D4DFV7Z5BVNI3IQQ8GFLZI
+[2026.05.22-11.25.23:634][455]LogSavePackage: Moving '../../../../../../Users/CristhianPonceKerpac/Documents/AA3-Level-Design/MyProject/Saved/D4DFV7Z5BVNI3IQQ8GFLZI8AA82D9D480438DF03EDBB9BBF948028.tmp' to '../../../../../../Users/CristhianPonceKerpac/Documents/AA3-Level-Design/MyProject/Content/__ExternalActors__/NewMap/3/5B/D4DFV7Z5BVNI3IQQ8GFLZI.uasset'
+[2026.05.22-11.25.23:638][455]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/3/T3/HOIFKR6JAHTPZHP9KX9IL0
+[2026.05.22-11.25.23:638][455]LogSavePackage: Moving '../../../../../../Users/CristhianPonceKerpac/Documents/AA3-Level-Design/MyProject/Saved/HOIFKR6JAHTPZHP9KX9IL05EFB8E9D48500BE3771BBD829AC42766.tmp' to '../../../../../../Users/CristhianPonceKerpac/Documents/AA3-Level-Design/MyProject/Content/__ExternalActors__/NewMap/3/T3/HOIFKR6JAHTPZHP9KX9IL0.uasset'
+[2026.05.22-11.25.23:642][455]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/D/2S/K29ASTUVVKKJP5VZ8DH4L2
+[2026.05.22-11.25.23:642][455]LogSavePackage: Moving '../../../../../../Users/CristhianPonceKerpac/Documents/AA3-Level-Design/MyProject/Saved/K29ASTUVVKKJP5VZ8DH4L2B42558CA480A0D30688DB38274741201.tmp' to '../../../../../../Users/CristhianPonceKerpac/Documents/AA3-Level-Design/MyProject/Content/__ExternalActors__/NewMap/D/2S/K29ASTUVVKKJP5VZ8DH4L2.uasset'
+[2026.05.22-11.25.23:647][455]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/C/2W/C5469ZQ4BQOK01U0ES1QCC
+[2026.05.22-11.25.23:647][455]LogSavePackage: Moving '../../../../../../Users/CristhianPonceKerpac/Documents/AA3-Level-Design/MyProject/Saved/C5469ZQ4BQOK01U0ES1QCC27F3979A46AB5E3E486716AA31AC9E37.tmp' to '../../../../../../Users/CristhianPonceKerpac/Documents/AA3-Level-Design/MyProject/Content/__ExternalActors__/NewMap/C/2W/C5469ZQ4BQOK01U0ES1QCC.uasset'
+[2026.05.22-11.25.23:661][455]LogFileHelpers: InternalPromptForCheckoutAndSave took 173.133 ms (total: 2.71 sec)
+[2026.05.22-11.25.23:728][455]LogContentValidation: Display: Starting to validate 14 assets
+[2026.05.22-11.25.23:728][455]LogContentValidation: Enabled validators:
+[2026.05.22-11.25.23:728][455]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.22-11.25.23:728][455]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.22-11.25.23:728][455]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.22-11.25.23:728][455]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.22-11.25.23:728][455]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.22-11.25.23:728][455]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.22-11.25.23:728][455]AssetCheck: /Game/NewMap Validating asset
+[2026.05.22-11.25.36:731][332]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.22-11.25.36:810][332]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2026.05.22-11.25.36:823][332]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2026.05.22-11.25.36:833][332]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2026.05.22-11.25.36:835][332]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/4/7Q/JC4YIXCD9BH36PA02ZF4QW
+[2026.05.22-11.25.36:836][332]LogSavePackage: Moving '../../../../../../Users/CristhianPonceKerpac/Documents/AA3-Level-Design/MyProject/Saved/JC4YIXCD9BH36PA02ZF4QW89349E7F40C23C2F6E92FBBB48E93CD4.tmp' to '../../../../../../Users/CristhianPonceKerpac/Documents/AA3-Level-Design/MyProject/Content/__ExternalActors__/NewMap/4/7Q/JC4YIXCD9BH36PA02ZF4QW.uasset'
+[2026.05.22-11.25.36:848][332]LogFileHelpers: InternalPromptForCheckoutAndSave took 117.346 ms (total: 2.83 sec)
+[2026.05.22-11.25.36:912][332]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.22-11.25.36:912][332]LogContentValidation: Enabled validators:
+[2026.05.22-11.25.36:912][332]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.22-11.25.36:913][332]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.22-11.25.36:913][332]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.22-11.25.36:913][332]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.22-11.25.36:913][332]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.22-11.25.36:913][332]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.22-11.25.36:913][332]AssetCheck: /Game/NewMap Validating asset
+[2026.05.22-11.25.47:490][ 64]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2026.05.22-11.25.48:778][157]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2026.05.22-11.25.50:041][251]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.05.22-11.25.50:051][251]LogContentBundle: [NewMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2026.05.22-11.25.50:051][251]LogWorldPartition: Display: GenerateStreaming for 'NewMap' started...
+[2026.05.22-11.25.50:067][251]LogWorldPartition: Display: GenerateStreaming for 'NewMap' took 15.239 ms
+[2026.05.22-11.25.50:071][251]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.05.22-11.25.50:082][251]LogOnline: OSS: Created online subsystem instance for: NULL
+[2026.05.22-11.25.50:083][251]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for type [NULL]
+[2026.05.22-11.25.50:088][251]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2026.05.22-11.25.50:108][251]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020827s)
+[2026.05.22-11.25.50:109][251]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.020920s)
+[2026.05.22-11.25.50:119][251]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2026.05.22-11.25.50:122][251]LogChaosDD: Creating Chaos Debug Draw Scene for world NewMap
+[2026.05.22-11.25.50:126][251]LogWorldPartition: ULevel::OnLevelLoaded(NewMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.05.22-11.25.50:126][251]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.05.22-11.25.50:126][251]LogWorldPartition: UWorldPartition::Initialize : World = /Game/UEDPIE_0_NewMap.NewMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.05.22-11.25.50:127][251]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.05.22-11.25.50:138][251]LogWorldPartition: Display: WorldPartition initialize took 12.404 ms (total: 7.00 sec)
+[2026.05.22-11.25.50:138][251]LogPlayLevel: PIE: World Init took: (0.016395s)
+[2026.05.22-11.25.50:140][251]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2026.05.22-11.25.50:141][251]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.05.22-11.25.50:141][251]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.05.22-11.25.50:141][251]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.05.22-11.25.50:141][251]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.05.22-11.25.50:141][251]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.05.22-11.25.50:141][251]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.05.22-11.25.50:141][251]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.05.22-11.25.50:141][251]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.05.22-11.25.50:141][251]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.05.22-11.25.50:141][251]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.05.22-11.25.50:141][251]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.05.22-11.25.50:144][251]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.05.22-11.25.50:181][251]LogAudioMixer: Display: Using Audio Hardware Device Digital Audio (S/PDIF) (High Definition Audio Device)
+[2026.05.22-11.25.50:182][251]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.05.22-11.25.50:182][251]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.05.22-11.25.50:182][251]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.05.22-11.25.50:184][251]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2026.05.22-11.25.50:184][251]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2026.05.22-11.25.50:186][251]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2026.05.22-11.25.50:186][251]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2026.05.22-11.25.50:186][251]LogInit: FAudioDevice initialized with ID 2.
+[2026.05.22-11.25.50:186][251]LogAudio: Display: Audio Device (ID: 2) registered with world 'NewMap'.
+[2026.05.22-11.25.50:186][251]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 2
+[2026.05.22-11.25.50:199][251]LogLoad: Game class is 'GameModeBase'
+[2026.05.22-11.25.50:202][251]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2026.05.22-13.25.50
+[2026.05.22-11.25.50:203][251]LogWorld: Bringing up level for play took: 0.002963
+[2026.05.22-11.25.50:208][251]LogOnline: OSS: Created online subsystem instance for: :Context_4
+[2026.05.22-11.25.50:229][251]LogStreaming: Display: FlushAsyncLoading(775,776,777,778,779,780,781,782,783,784,785,786,787,788,789,790,742,743,744,745,746,747,748,749,750,751,752,753,754,755,756,757,758,759,760,761,762,763,764,765,766,767,768,769,770,771,772,773,774,698,699,700,701,702,703,704,705,706,707,708,709,710,711,712,713,714,715,716,717,718,719,720,721,722,723,724,725,726,727,728,729,730,731,732,733,734,735,736,737,738,739,740,741,674,675,676,677,678,679,680,681,682,683,684,685,686,687,688,689,690,691,692,693,694,695,696,697): 117 QueuedPackages, 0 AsyncPackages
+[2026.05.22-11.25.50:251][251]LogStreaming: Display: ImportPackages: SkipPackage: /Memory/UEDPIE_0_7QSLH1TPPYF8NLCNZ2RUJS0DL_InstanceOf_/Game/__ExternalActors__/NewMap/7/XU/YY8DQRBF5VZZYKEWKG3HZV (0x550A32561AD9DE12) /Game/__ExternalActors__/NewMap/7/XU/YY8DQRBF5VZZYKEWKG3HZV (0xD1EE5AC09645191F) - Skipping non mounted imported package /Game/Fab/Rustic__rustic_chest_of_drawers/rustic_rustic_chest_of_drawers (0xBA89A04B48870406)
+[2026.05.22-11.25.50:527][251]LogStreaming: Display: ImportPackages: SkipPackage: /Memory/UEDPIE_0_4FHB4M126CAZ7H2K6543MKYO9_InstanceOf_/Game/__ExternalActors__/NewMap/A/D3/K6BE25RC5NNBM4WYVYPM6Y (0x541EBD876E1F8664) /Game/__ExternalActors__/NewMap/A/D3/K6BE25RC5NNBM4WYVYPM6Y (0x1741863BDAAF37B) - Skipping non mounted imported package /Game/Fab/Microwave/microwave (0x26308049271C84D0)
+[2026.05.22-11.25.50:789][251]LogStreaming: Warning: FGlobalImportStore:AddPackageRef: Found reference to previously missing package /Game/Fab/CC0_-_Paper/cc0_paper (0x861D1BFCEA684842)
+[2026.05.22-11.25.50:894][251]PIE: Server logged in
+[2026.05.22-11.25.50:895][251]PIE: Play in editor total start time 0,845 seconds.
+[2026.05.22-11.25.50:950][251]LogPackageName: Warning: GetLocalFullPath called on FPackagePath ../../../../../../Users/CristhianPonceKerpac/Documents/AA3-Level-Design/MyProject/Content/Fab/Rustic__rustic_chest_of_drawers/rustic_rustic_chest_of_drawers which has an unspecified header extension, and the path does not exist on disk. Assuming EPackageExtension::Asset.
+[2026.05.22-11.25.50:950][251]LogPackageName: Warning: GetLocalFullPath called on FPackagePath ../../../../../../Users/CristhianPonceKerpac/Documents/AA3-Level-Design/MyProject/Content/Fab/Microwave/microwave which has an unspecified header extension, and the path does not exist on disk. Assuming EPackageExtension::Asset.
+[2026.05.22-11.26.00:382][990]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.05.22-11.26.00:382][990]LogWorld: BeginTearingDown for /Game/UEDPIE_0_NewMap
+[2026.05.22-11.26.00:386][990]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2026.05.22-11.26.00:386][990]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.22-11.26.00:386][990]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/UEDPIE_0_NewMap.NewMap
+[2026.05.22-11.26.00:393][990]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.05.22-11.26.00:396][990]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.22-11.26.00:412][990]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.05.22-11.26.00:412][990]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 2
+[2026.05.22-11.26.00:415][990]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2026.05.22-11.26.00:418][990]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2026.05.22-11.26.00:433][990]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2026.05.22-11.26.00:498][991]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2026.05.22-11.26.11:339][804]Cmd: DUPLICATE
+[2026.05.22-11.26.11:339][804]Cmd: ACTOR DUPLICATE
+[2026.05.22-11.26.11:361][804]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2026.05.22-11.26.11:687][825]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.22-11.26.11:763][825]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2026.05.22-11.26.11:774][825]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2026.05.22-11.26.11:786][825]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2026.05.22-11.26.11:788][825]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap" FILE="../../../../../../Users/CristhianPonceKerpac/Documents/AA3-Level-Design/MyProject/Content/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2026.05.22-11.26.11:823][825]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2026.05.22-11.26.11:827][825]LogSavePackage: Moving output files for package: /Game/NewMap
+[2026.05.22-11.26.11:828][825]LogSavePackage: Moving '../../../../../../Users/CristhianPonceKerpac/Documents/AA3-Level-Design/MyProject/Saved/NewMap2CC259934CD86AC3D60239865A8C5C19.tmp' to '../../../../../../Users/CristhianPonceKerpac/Documents/AA3-Level-Design/MyProject/Content/NewMap.umap'
+[2026.05.22-11.26.11:838][825]LogFileHelpers: Saving map 'NewMap' took 0.051
+[2026.05.22-11.26.11:841][825]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/A/BZ/ZZZUE6B734TVUOS09XOW8Y
+[2026.05.22-11.26.11:842][825]LogSavePackage: Moving '../../../../../../Users/CristhianPonceKerpac/Documents/AA3-Level-Design/MyProject/Saved/ZZZUE6B734TVUOS09XOW8Y8CDA15D147780D1F9A5BFF8EF84DC8F4.tmp' to '../../../../../../Users/CristhianPonceKerpac/Documents/AA3-Level-Design/MyProject/Content/__ExternalActors__/NewMap/A/BZ/ZZZUE6B734TVUOS09XOW8Y.uasset'
+[2026.05.22-11.26.11:846][825]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/3/CC/G5ACZ9LGMHASM47N58X4TK
+[2026.05.22-11.26.11:846][825]LogSavePackage: Moving '../../../../../../Users/CristhianPonceKerpac/Documents/AA3-Level-Design/MyProject/Saved/G5ACZ9LGMHASM47N58X4TKE43485D6458DEE93768A4AAA014FB32A.tmp' to '../../../../../../Users/CristhianPonceKerpac/Documents/AA3-Level-Design/MyProject/Content/__ExternalActors__/NewMap/3/CC/G5ACZ9LGMHASM47N58X4TK.uasset'
+[2026.05.22-11.26.11:861][825]LogFileHelpers: InternalPromptForCheckoutAndSave took 172.819 ms (total: 3.00 sec)
+[2026.05.22-11.26.11:932][825]LogContentValidation: Display: Starting to validate 3 assets
+[2026.05.22-11.26.11:932][825]LogContentValidation: Enabled validators:
+[2026.05.22-11.26.11:932][825]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.22-11.26.11:932][825]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.22-11.26.11:932][825]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.22-11.26.11:932][825]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.22-11.26.11:932][825]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.22-11.26.11:932][825]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.22-11.26.11:932][825]AssetCheck: /Game/NewMap Validating asset
+[2026.05.22-11.26.12:481][866]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.05.22-11.26.12:495][866]LogContentBundle: [NewMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2026.05.22-11.26.12:496][866]LogWorldPartition: Display: GenerateStreaming for 'NewMap' started...
+[2026.05.22-11.26.12:504][866]LogWorldPartition: Display: GenerateStreaming for 'NewMap' took 8.962 ms (total: 24.202 ms)
+[2026.05.22-11.26.12:505][866]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.05.22-11.26.12:505][866]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2026.05.22-11.26.12:519][866]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013830s)
+[2026.05.22-11.26.12:519][866]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.013880s)
+[2026.05.22-11.26.12:531][866]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2026.05.22-11.26.12:532][866]LogChaosDD: Creating Chaos Debug Draw Scene for world NewMap
+[2026.05.22-11.26.12:535][866]LogWorldPartition: ULevel::OnLevelLoaded(NewMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.05.22-11.26.12:535][866]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.05.22-11.26.12:535][866]LogWorldPartition: UWorldPartition::Initialize : World = /Game/UEDPIE_0_NewMap.NewMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.05.22-11.26.12:535][866]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.05.22-11.26.12:548][866]LogWorldPartition: Display: WorldPartition initialize took 12.077 ms (total: 7.01 sec)
+[2026.05.22-11.26.12:548][866]LogPlayLevel: PIE: World Init took: (0.015117s)
+[2026.05.22-11.26.12:549][866]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2026.05.22-11.26.12:549][866]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.05.22-11.26.12:549][866]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.05.22-11.26.12:549][866]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.05.22-11.26.12:549][866]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.05.22-11.26.12:549][866]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.05.22-11.26.12:549][866]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.05.22-11.26.12:549][866]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.05.22-11.26.12:549][866]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.05.22-11.26.12:549][866]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.05.22-11.26.12:549][866]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.05.22-11.26.12:549][866]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.05.22-11.26.12:553][866]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.05.22-11.26.12:582][866]LogAudioMixer: Display: Using Audio Hardware Device Digital Audio (S/PDIF) (High Definition Audio Device)
+[2026.05.22-11.26.12:583][866]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.05.22-11.26.12:583][866]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.05.22-11.26.12:583][866]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.05.22-11.26.12:584][866]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2026.05.22-11.26.12:584][866]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2026.05.22-11.26.12:588][866]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2026.05.22-11.26.12:588][866]LogInit: FAudioDevice initialized with ID 3.
+[2026.05.22-11.26.12:588][866]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2026.05.22-11.26.12:588][866]LogAudio: Display: Audio Device (ID: 3) registered with world 'NewMap'.
+[2026.05.22-11.26.12:588][866]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2026.05.22-11.26.12:592][866]LogLoad: Game class is 'GameMode'
+[2026.05.22-11.26.12:593][866]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2026.05.22-13.26.12
+[2026.05.22-11.26.12:594][866]LogWorld: Bringing up level for play took: 0.001858
+[2026.05.22-11.26.12:597][866]LogOnline: OSS: Created online subsystem instance for: :Context_5
+[2026.05.22-11.26.12:599][866]LogStreaming: Display: FlushAsyncLoading(892,893,894,895,896,897,898,899,900,901,902,903,904,905,906,907,859,860,861,862,863,864,865,866,867,868,869,870,871,872,873,874,875,876,877,878,879,880,881,882,883,884,885,886,887,888,889,890,891,815,816,817,818,819,820,821,822,823,824,825,826,827,828,829,830,831,832,833,834,835,836,837,838,839,840,841,842,843,844,845,846,847,848,849,850,851,852,853,854,855,856,857,858,791,792,793,794,795,796,797,798,799,800,801,802,803,804,805,806,807,808,809,810,811,812,813,814): 117 QueuedPackages, 0 AsyncPackages
+[2026.05.22-11.26.12:602][866]LogStreaming: Display: ImportPackages: SkipPackage: /Memory/UEDPIE_0_7QSLH1TPPYF8NLCNZ2RUJS0DL_InstanceOf_/Game/__ExternalActors__/NewMap/7/XU/YY8DQRBF5VZZYKEWKG3HZV (0x550A32561AD9DE12) /Game/__ExternalActors__/NewMap/7/XU/YY8DQRBF5VZZYKEWKG3HZV (0xD1EE5AC09645191F) - Skipping non mounted imported package /Game/Fab/Rustic__rustic_chest_of_drawers/rustic_rustic_chest_of_drawers (0xBA89A04B48870406)
+[2026.05.22-11.26.12:613][866]LogStreaming: Display: ImportPackages: SkipPackage: /Memory/UEDPIE_0_4FHB4M126CAZ7H2K6543MKYO9_InstanceOf_/Game/__ExternalActors__/NewMap/A/D3/K6BE25RC5NNBM4WYVYPM6Y (0x541EBD876E1F8664) /Game/__ExternalActors__/NewMap/A/D3/K6BE25RC5NNBM4WYVYPM6Y (0x1741863BDAAF37B) - Skipping non mounted imported package /Game/Fab/Microwave/microwave (0x26308049271C84D0)
+[2026.05.22-11.26.12:648][866]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2026.05.22-11.26.12:649][866]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2026.05.22-11.26.12:649][866]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2026.05.22-11.26.12:651][866]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2026.05.22-11.26.12:652][866]PIE: Server logged in
+[2026.05.22-11.26.12:653][866]PIE: Play in editor total start time 0,157 seconds.
+[2026.05.22-11.26.12:672][866]LogPackageName: Warning: GetLocalFullPath called on FPackagePath ../../../../../../Users/CristhianPonceKerpac/Documents/AA3-Level-Design/MyProject/Content/Fab/Rustic__rustic_chest_of_drawers/rustic_rustic_chest_of_drawers which has an unspecified header extension, and the path does not exist on disk. Assuming EPackageExtension::Asset.
+[2026.05.22-11.26.12:672][866]LogPackageName: Warning: GetLocalFullPath called on FPackagePath ../../../../../../Users/CristhianPonceKerpac/Documents/AA3-Level-Design/MyProject/Content/Fab/Microwave/microwave which has an unspecified header extension, and the path does not exist on disk. Assuming EPackageExtension::Asset.
+[2026.05.22-11.26.18:498][314]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.05.22-11.26.18:498][314]LogWorld: BeginTearingDown for /Game/UEDPIE_0_NewMap
+[2026.05.22-11.26.18:501][314]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2026.05.22-11.26.18:501][314]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.22-11.26.18:501][314]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/UEDPIE_0_NewMap.NewMap
+[2026.05.22-11.26.18:506][314]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.05.22-11.26.18:508][314]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.22-11.26.18:523][314]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.05.22-11.26.18:524][314]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2026.05.22-11.26.18:524][314]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2026.05.22-11.26.18:526][314]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2026.05.22-11.26.18:532][314]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.05.22-11.26.18:537][314]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2026.05.22-11.26.18:559][315]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2026.05.22-11.26.22:999][644]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2835.263916
+[2026.05.22-11.26.23:162][655]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.22-11.26.23:162][655]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2835.413330, Update Interval: 307.410492
+[2026.05.22-11.28.43:242][409]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.05.22-11.28.43:254][409]LogContentBundle: [NewMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2026.05.22-11.28.43:254][409]LogWorldPartition: Display: GenerateStreaming for 'NewMap' started...
+[2026.05.22-11.28.43:268][409]LogWorldPartition: Display: GenerateStreaming for 'NewMap' took 13.551 ms (total: 37.753 ms)
+[2026.05.22-11.28.43:268][409]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.05.22-11.28.43:268][409]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2026.05.22-11.28.43:281][409]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012779s)
+[2026.05.22-11.28.43:281][409]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.012839s)
+[2026.05.22-11.28.43:291][409]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2026.05.22-11.28.43:292][409]LogChaosDD: Creating Chaos Debug Draw Scene for world NewMap
+[2026.05.22-11.28.43:294][409]LogWorldPartition: ULevel::OnLevelLoaded(NewMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.05.22-11.28.43:294][409]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.05.22-11.28.43:294][409]LogWorldPartition: UWorldPartition::Initialize : World = /Game/UEDPIE_0_NewMap.NewMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.05.22-11.28.43:294][409]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.05.22-11.28.43:304][409]LogWorldPartition: Display: WorldPartition initialize took 10.559 ms (total: 7.03 sec)
+[2026.05.22-11.28.43:304][409]LogPlayLevel: PIE: World Init took: (0.012588s)
+[2026.05.22-11.28.43:305][409]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2026.05.22-11.28.43:305][409]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.05.22-11.28.43:305][409]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.05.22-11.28.43:305][409]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.05.22-11.28.43:306][409]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.05.22-11.28.43:306][409]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.05.22-11.28.43:306][409]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.05.22-11.28.43:306][409]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.05.22-11.28.43:306][409]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.05.22-11.28.43:306][409]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.05.22-11.28.43:306][409]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.05.22-11.28.43:306][409]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.05.22-11.28.43:309][409]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.05.22-11.28.43:343][409]LogAudioMixer: Display: Using Audio Hardware Device Digital Audio (S/PDIF) (High Definition Audio Device)
+[2026.05.22-11.28.43:343][409]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.05.22-11.28.43:343][409]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.05.22-11.28.43:343][409]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.05.22-11.28.43:344][409]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2026.05.22-11.28.43:344][409]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2026.05.22-11.28.43:348][409]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2026.05.22-11.28.43:348][409]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2026.05.22-11.28.43:348][409]LogInit: FAudioDevice initialized with ID 4.
+[2026.05.22-11.28.43:348][409]LogAudio: Display: Audio Device (ID: 4) registered with world 'NewMap'.
+[2026.05.22-11.28.43:348][409]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 4
+[2026.05.22-11.28.43:351][409]LogLoad: Game class is 'GameMode'
+[2026.05.22-11.28.43:353][409]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2026.05.22-13.28.43
+[2026.05.22-11.28.43:353][409]LogWorld: Bringing up level for play took: 0.002011
+[2026.05.22-11.28.43:357][409]LogOnline: OSS: Created online subsystem instance for: :Context_6
+[2026.05.22-11.28.43:359][409]LogStreaming: Display: FlushAsyncLoading(1009,1010,1011,1012,1013,1014,1015,1016,1017,1018,1019,1020,1021,1022,1023,1024,976,977,978,979,980,981,982,983,984,985,986,987,988,989,990,991,992,993,994,995,996,997,998,999,1000,1001,1002,1003,1004,1005,1006,1007,1008,932,933,934,935,936,937,938,939,940,941,942,943,944,945,946,947,948,949,950,951,952,953,954,955,956,957,958,959,960,961,962,963,964,965,966,967,968,969,970,971,972,973,974,975,908,909,910,911,912,913,914,915,916,917,918,919,920,921,922,923,924,925,926,927,928,929,930,931): 117 QueuedPackages, 0 AsyncPackages
+[2026.05.22-11.28.43:362][409]LogStreaming: Display: ImportPackages: SkipPackage: /Memory/UEDPIE_0_7QSLH1TPPYF8NLCNZ2RUJS0DL_InstanceOf_/Game/__ExternalActors__/NewMap/7/XU/YY8DQRBF5VZZYKEWKG3HZV (0x550A32561AD9DE12) /Game/__ExternalActors__/NewMap/7/XU/YY8DQRBF5VZZYKEWKG3HZV (0xD1EE5AC09645191F) - Skipping non mounted imported package /Game/Fab/Rustic__rustic_chest_of_drawers/rustic_rustic_chest_of_drawers (0xBA89A04B48870406)
+[2026.05.22-11.28.43:373][409]LogStreaming: Display: ImportPackages: SkipPackage: /Memory/UEDPIE_0_4FHB4M126CAZ7H2K6543MKYO9_InstanceOf_/Game/__ExternalActors__/NewMap/A/D3/K6BE25RC5NNBM4WYVYPM6Y (0x541EBD876E1F8664) /Game/__ExternalActors__/NewMap/A/D3/K6BE25RC5NNBM4WYVYPM6Y (0x1741863BDAAF37B) - Skipping non mounted imported package /Game/Fab/Microwave/microwave (0x26308049271C84D0)
+[2026.05.22-11.28.43:405][409]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2026.05.22-11.28.43:405][409]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2026.05.22-11.28.43:405][409]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2026.05.22-11.28.43:406][409]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2026.05.22-11.28.43:407][409]PIE: Server logged in
+[2026.05.22-11.28.43:408][409]PIE: Play in editor total start time 0,155 seconds.
+[2026.05.22-11.28.43:422][409]LogPackageName: Warning: GetLocalFullPath called on FPackagePath ../../../../../../Users/CristhianPonceKerpac/Documents/AA3-Level-Design/MyProject/Content/Fab/Rustic__rustic_chest_of_drawers/rustic_rustic_chest_of_drawers which has an unspecified header extension, and the path does not exist on disk. Assuming EPackageExtension::Asset.
+[2026.05.22-11.28.43:423][410]LogPackageName: Warning: GetLocalFullPath called on FPackagePath ../../../../../../Users/CristhianPonceKerpac/Documents/AA3-Level-Design/MyProject/Content/Fab/Microwave/microwave which has an unspecified header extension, and the path does not exist on disk. Assuming EPackageExtension::Asset.
+[2026.05.22-11.28.46:547][639]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.05.22-11.28.46:547][639]LogWorld: BeginTearingDown for /Game/UEDPIE_0_NewMap
+[2026.05.22-11.28.46:549][639]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2026.05.22-11.28.46:550][639]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.22-11.28.46:550][639]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/UEDPIE_0_NewMap.NewMap
+[2026.05.22-11.28.46:554][639]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.05.22-11.28.46:558][639]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.22-11.28.46:573][639]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.05.22-11.28.46:574][639]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 4
+[2026.05.22-11.28.46:574][639]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2026.05.22-11.28.46:577][639]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2026.05.22-11.28.46:586][639]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2026.05.22-11.28.46:673][640]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2026.05.22-11.29.07:884][264]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.22-11.29.07:942][264]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2026.05.22-11.29.07:955][264]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2026.05.22-11.29.07:968][264]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2026.05.22-11.29.07:969][264]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap" FILE="../../../../../../Users/CristhianPonceKerpac/Documents/AA3-Level-Design/MyProject/Content/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2026.05.22-11.29.08:003][264]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2026.05.22-11.29.08:008][264]LogSavePackage: Moving output files for package: /Game/NewMap
+[2026.05.22-11.29.08:008][264]LogSavePackage: Moving '../../../../../../Users/CristhianPonceKerpac/Documents/AA3-Level-Design/MyProject/Saved/NewMap024FE4B24C8BE3D678B30190F0739D0B.tmp' to '../../../../../../Users/CristhianPonceKerpac/Documents/AA3-Level-Design/MyProject/Content/NewMap.umap'
+[2026.05.22-11.29.08:019][264]LogFileHelpers: Saving map 'NewMap' took 0.050
+[2026.05.22-11.29.08:029][264]LogFileHelpers: InternalPromptForCheckoutAndSave took 145.634 ms (total: 3.15 sec)
+[2026.05.22-11.29.08:098][264]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.22-11.29.08:098][264]LogContentValidation: Enabled validators:
+[2026.05.22-11.29.08:098][264]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.22-11.29.08:098][264]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.22-11.29.08:098][264]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.22-11.29.08:098][264]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.22-11.29.08:098][264]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.22-11.29.08:098][264]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.22-11.29.08:098][264]AssetCheck: /Game/NewMap Validating asset
+[2026.05.22-11.29.08:679][309]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.05.22-11.29.08:689][309]LogContentBundle: [NewMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2026.05.22-11.29.08:690][309]LogWorldPartition: Display: GenerateStreaming for 'NewMap' started...
+[2026.05.22-11.29.08:700][309]LogWorldPartition: Display: GenerateStreaming for 'NewMap' took 10.357 ms (total: 48.111 ms)
+[2026.05.22-11.29.08:701][309]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.05.22-11.29.08:735][309]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2026.05.22-11.29.08:747][309]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011433s)
+[2026.05.22-11.29.08:747][309]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.011477s)
+[2026.05.22-11.29.08:757][309]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2026.05.22-11.29.08:758][309]LogChaosDD: Creating Chaos Debug Draw Scene for world NewMap
+[2026.05.22-11.29.08:760][309]LogWorldPartition: ULevel::OnLevelLoaded(NewMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.05.22-11.29.08:760][309]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.05.22-11.29.08:760][309]LogWorldPartition: UWorldPartition::Initialize : World = /Game/UEDPIE_0_NewMap.NewMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.05.22-11.29.08:760][309]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.05.22-11.29.08:770][309]LogWorldPartition: Display: WorldPartition initialize took 10.684 ms (total: 7.04 sec)
+[2026.05.22-11.29.08:770][309]LogPlayLevel: PIE: World Init took: (0.012897s)
+[2026.05.22-11.29.08:772][309]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2026.05.22-11.29.08:772][309]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.05.22-11.29.08:772][309]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.05.22-11.29.08:772][309]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.05.22-11.29.08:772][309]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.05.22-11.29.08:772][309]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.05.22-11.29.08:772][309]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.05.22-11.29.08:772][309]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.05.22-11.29.08:772][309]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.05.22-11.29.08:772][309]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.05.22-11.29.08:772][309]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.05.22-11.29.08:772][309]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.05.22-11.29.08:775][309]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.05.22-11.29.08:807][309]LogAudioMixer: Display: Using Audio Hardware Device Digital Audio (S/PDIF) (High Definition Audio Device)
+[2026.05.22-11.29.08:808][309]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.05.22-11.29.08:808][309]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.05.22-11.29.08:808][309]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.05.22-11.29.08:809][309]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2026.05.22-11.29.08:809][309]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2026.05.22-11.29.08:812][309]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2026.05.22-11.29.08:812][309]LogInit: FAudioDevice initialized with ID 5.
+[2026.05.22-11.29.08:812][309]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2026.05.22-11.29.08:812][309]LogAudio: Display: Audio Device (ID: 5) registered with world 'NewMap'.
+[2026.05.22-11.29.08:812][309]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 5
+[2026.05.22-11.29.08:815][309]LogLoad: Game class is 'FunctionalTestGameMode'
+[2026.05.22-11.29.08:818][309]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2026.05.22-13.29.08
+[2026.05.22-11.29.08:818][309]LogWorld: Bringing up level for play took: 0.002374
+[2026.05.22-11.29.08:821][309]LogOnline: OSS: Created online subsystem instance for: :Context_7
+[2026.05.22-11.29.08:823][309]LogStreaming: Display: FlushAsyncLoading(1126,1127,1128,1129,1130,1131,1132,1133,1134,1135,1136,1137,1138,1139,1140,1141,1093,1094,1095,1096,1097,1098,1099,1100,1101,1102,1103,1104,1105,1106,1107,1108,1109,1110,1111,1112,1113,1114,1115,1116,1117,1118,1119,1120,1121,1122,1123,1124,1125,1049,1050,1051,1052,1053,1054,1055,1056,1057,1058,1059,1060,1061,1062,1063,1064,1065,1066,1067,1068,1069,1070,1071,1072,1073,1074,1075,1076,1077,1078,1079,1080,1081,1082,1083,1084,1085,1086,1087,1088,1089,1090,1091,1092,1025,1026,1027,1028,1029,1030,1031,1032,1033,1034,1035,1036,1037,1038,1039,1040,1041,1042,1043,1044,1045,1046,1047,1048): 117 QueuedPackages, 0 AsyncPackages
+[2026.05.22-11.29.08:826][309]LogStreaming: Display: ImportPackages: SkipPackage: /Memory/UEDPIE_0_7QSLH1TPPYF8NLCNZ2RUJS0DL_InstanceOf_/Game/__ExternalActors__/NewMap/7/XU/YY8DQRBF5VZZYKEWKG3HZV (0x550A32561AD9DE12) /Game/__ExternalActors__/NewMap/7/XU/YY8DQRBF5VZZYKEWKG3HZV (0xD1EE5AC09645191F) - Skipping non mounted imported package /Game/Fab/Rustic__rustic_chest_of_drawers/rustic_rustic_chest_of_drawers (0xBA89A04B48870406)
+[2026.05.22-11.29.08:836][309]LogStreaming: Display: ImportPackages: SkipPackage: /Memory/UEDPIE_0_4FHB4M126CAZ7H2K6543MKYO9_InstanceOf_/Game/__ExternalActors__/NewMap/A/D3/K6BE25RC5NNBM4WYVYPM6Y (0x541EBD876E1F8664) /Game/__ExternalActors__/NewMap/A/D3/K6BE25RC5NNBM4WYVYPM6Y (0x1741863BDAAF37B) - Skipping non mounted imported package /Game/Fab/Microwave/microwave (0x26308049271C84D0)
+[2026.05.22-11.29.08:872][309]PIE: Server logged in
+[2026.05.22-11.29.08:873][309]PIE: Play in editor total start time 0,183 seconds.
+[2026.05.22-11.29.08:884][309]LogPackageName: Warning: GetLocalFullPath called on FPackagePath ../../../../../../Users/CristhianPonceKerpac/Documents/AA3-Level-Design/MyProject/Content/Fab/Rustic__rustic_chest_of_drawers/rustic_rustic_chest_of_drawers which has an unspecified header extension, and the path does not exist on disk. Assuming EPackageExtension::Asset.
+[2026.05.22-11.29.08:884][309]LogPackageName: Warning: GetLocalFullPath called on FPackagePath ../../../../../../Users/CristhianPonceKerpac/Documents/AA3-Level-Design/MyProject/Content/Fab/Microwave/microwave which has an unspecified header extension, and the path does not exist on disk. Assuming EPackageExtension::Asset.
+[2026.05.22-11.29.11:777][519]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.05.22-11.29.11:777][519]LogWorld: BeginTearingDown for /Game/UEDPIE_0_NewMap
+[2026.05.22-11.29.11:779][519]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2026.05.22-11.29.11:780][519]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.22-11.29.11:780][519]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/UEDPIE_0_NewMap.NewMap
+[2026.05.22-11.29.11:784][519]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.05.22-11.29.11:787][519]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.22-11.29.11:802][519]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.05.22-11.29.11:803][519]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 5
+[2026.05.22-11.29.11:803][519]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2026.05.22-11.29.11:805][519]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2026.05.22-11.29.11:816][519]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2026.05.22-11.29.11:892][520]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2026.05.22-11.32.11:370][471]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3183.625977
+[2026.05.22-11.32.11:533][478]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.22-11.32.11:533][478]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3183.777832, Update Interval: 322.288269
+[2026.05.22-11.32.19:485][802]LogSlate: Window 'Fab' being destroyed
+[2026.05.22-11.32.19:488][802]LogSlate: Window 'Fab' being destroyed
+[2026.05.22-11.32.21:123][806]LogWebBrowser: Closing browser during destruction, this may cause a later crash.
+[2026.05.22-11.32.21:123][806]LogWebBrowser: Deleting browser for Url=https://www.fab.com/plugins/ue5/listings/87baab49-43a2-4689-84f0-7a56b1c23c61.
+[2026.05.22-11.32.22:299][819]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.22-11.32.22:379][819]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2026.05.22-11.32.22:391][819]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2026.05.22-11.32.22:404][819]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2026.05.22-11.32.22:417][819]LogFileHelpers: InternalPromptForCheckoutAndSave took 117.661 ms (total: 3.27 sec)
