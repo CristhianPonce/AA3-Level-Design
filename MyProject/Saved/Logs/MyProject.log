@@ -2383,3 +2383,262 @@ FPackageName: Skipped package /Game/Debug_Brothers/Sky/M_DB_DigitalSky has a val
 [2026.05.22-00.01.07:017][472]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2026.05.22-00.01.07:017][472]AssetCheck: /Game/NewMap Validating asset
 [2026.05.22-00.01.07:017][472]AssetCheck: /Game/NewMap_HLOD0_Instancing Validating asset
+[2026.05.22-00.02.20:532][752]LogShaderCompilers: Display: ================================================
+[2026.05.22-00.02.20:532][752]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.05.22-00.02.20:532][752]LogShaderCompilers: Display: Total job queries 1,340, among them cache hits 213 (15.90%), DDC hits 1,085 (80.97%), Duplicates 7 (0.52%)
+[2026.05.22-00.02.20:532][752]LogShaderCompilers: Display: Tracking 1,120 distinct input hashes that result in 874 distinct outputs (78.04%)
+[2026.05.22-00.02.20:532][752]LogShaderCompilers: Display: RAM used: 567.23 KiB of 819.20 MiB budget. Usage: 0.07%
+[2026.05.22-00.02.20:532][752]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.05.22-00.02.20:532][752]LogShaderCompilers: Display: Shaders Compiled: 35
+[2026.05.22-00.02.20:532][752]LogShaderCompilers: Display: Jobs assigned 35, completed 35 (100%)
+[2026.05.22-00.02.20:532][752]LogShaderCompilers: Display: Average time worker was idle: 0.00 s
+[2026.05.22-00.02.20:532][752]LogShaderCompilers: Display: Time job spent in pending queue: average 2.97 s, longest 15.04 s
+[2026.05.22-00.02.20:532][752]LogShaderCompilers: Display: Job execution time: average 8.83 s, max 20.20 s
+[2026.05.22-00.02.20:532][752]LogShaderCompilers: Display: Job life time (pending + execution): average 11.80 s, max 20.64
+[2026.05.22-00.02.20:532][752]LogShaderCompilers: Display: Shader code size: average 10.557 KiB, min 2.105 KiB, max 21.141 KiB
+[2026.05.22-00.02.20:532][752]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 20.75 s
+[2026.05.22-00.02.20:532][752]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.01%
+[2026.05.22-00.02.20:532][752]LogShaderCompilers: Display: Jobs were issued in 23 batches (only local compilation was used), average 1.52 jobs/batch
+[2026.05.22-00.02.20:533][752]LogShaderCompilers: Display: Average processing rate: 1.69 jobs/sec
+[2026.05.22-00.02.20:533][752]LogShaderCompilers: Display: Total thread time: 159.963 s
+[2026.05.22-00.02.20:533][752]LogShaderCompilers: Display: Total thread preprocess time: 17.71 s
+[2026.05.22-00.02.20:533][752]LogShaderCompilers: Display: Percentage time preprocessing: 11.07%
+[2026.05.22-00.02.20:533][752]LogShaderCompilers: Display: Effective parallelization: 7.71 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2026.05.22-00.02.20:533][752]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.05.22-00.02.20:533][752]LogShaderCompilers: Display:                         TBasePassCSFNoLightMapPolicySkylight (compiled    1 times, average 11.94 sec, max 11.94 sec, min 11.94 sec)
+[2026.05.22-00.02.20:533][752]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    4 times, average 7.87 sec, max 11.23 sec, min 2.27 sec)
+[2026.05.22-00.02.20:533][752]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy (compiled    1 times, average 7.67 sec, max 7.67 sec, min 7.67 sec)
+[2026.05.22-00.02.20:533][752]LogShaderCompilers: Display:                                                 FLumenCardPS (compiled    2 times, average 7.24 sec, max 13.84 sec, min 0.64 sec)
+[2026.05.22-00.02.20:533][752]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS (compiled    3 times, average 7.14 sec, max 8.02 sec, min 5.96 sec)
+[2026.05.22-00.02.20:533][752]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.05.22-00.02.20:533][752]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 19.67% of total time (compiled    4 times, average 7.87 sec, max 11.23 sec, min 2.27 sec)
+[2026.05.22-00.02.20:533][752]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS - 13.40% of total time (compiled    3 times, average 7.14 sec, max 8.02 sec, min 5.96 sec)
+[2026.05.22-00.02.20:533][752]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 9.22% of total time (compiled    3 times, average 4.92 sec, max 7.20 sec, min 0.91 sec)
+[2026.05.22-00.02.20:533][752]LogShaderCompilers: Display:                                                 FLumenCardPS - 9.05% of total time (compiled    2 times, average 7.24 sec, max 13.84 sec, min 0.64 sec)
+[2026.05.22-00.02.20:533][752]LogShaderCompilers: Display:                         TBasePassCSFNoLightMapPolicySkylight - 7.47% of total time (compiled    1 times, average 11.94 sec, max 11.94 sec, min 11.94 sec)
+[2026.05.22-00.02.20:533][752]LogShaderCompilers: Display: === Material stats ===
+[2026.05.22-00.02.20:533][752]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.05.22-00.02.20:533][752]LogShaderCompilers: Display: Materials Translated:    129
+[2026.05.22-00.02.20:533][752]LogShaderCompilers: Display: Material Total Translate Time: 0.12 s
+[2026.05.22-00.02.20:533][752]LogShaderCompilers: Display: Material Translation Only: 0.05 s (47%)
+[2026.05.22-00.02.20:533][752]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2026.05.22-00.02.20:533][752]LogShaderCompilers: Display: Material Cache Hits: 0 (0%)
+[2026.05.22-00.02.20:533][752]LogShaderCompilers: Display: ================================================
+[2026.05.22-00.03.29:253][ 43]LogStreaming: Display: FlushAsyncLoading(590): 1 QueuedPackages, 0 AsyncPackages
+[2026.05.22-00.03.30:202][133]LogStreaming: Display: FlushAsyncLoading(591): 1 QueuedPackages, 0 AsyncPackages
+[2026.05.22-00.03.30:360][136]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Props/SM_Chair.SM_Chair
+[2026.05.22-00.03.30:360][136]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Props/SM_Chair.SM_Chair
+[2026.05.22-00.03.30:362][136]LogActorFactory: Actor Factory spawned StaticMesh /Game/StarterContent/Props/SM_Chair.SM_Chair as actor: StaticMeshActor /Game/NewMap.NewMap:PersistentLevel.StaticMeshActor_0
+[2026.05.22-00.03.31:627][268]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2026.05.22-00.03.31:631][268]LogEditorActor: Deleted 0 Actors (0.024 secs)
+[2026.05.22-00.03.31:636][268]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Props/SM_Chair.SM_Chair
+[2026.05.22-00.03.31:636][268]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Props/SM_Chair.SM_Chair
+[2026.05.22-00.03.31:639][268]LogActorFactory: Actor Factory spawned StaticMesh /Game/StarterContent/Props/SM_Chair.SM_Chair as actor: StaticMeshActor /Game/NewMap.NewMap:PersistentLevel.StaticMeshActor_UAID_18C04DC29BB356DD02_1837791009
+[2026.05.22-00.03.36:502][680]Cmd: MODE SCALEGRID=0
+[2026.05.22-00.03.42:638][217]Cmd: DUPLICATE
+[2026.05.22-00.03.42:638][217]Cmd: ACTOR DUPLICATE
+[2026.05.22-00.03.48:764][805]Cmd: DUPLICATE
+[2026.05.22-00.03.48:764][805]Cmd: ACTOR DUPLICATE
+[2026.05.22-00.03.54:482][354]Cmd: DUPLICATE
+[2026.05.22-00.03.54:482][354]Cmd: ACTOR DUPLICATE
+[2026.05.22-00.04.04:081][213]Cmd: DUPLICATE
+[2026.05.22-00.04.04:081][213]Cmd: ACTOR DUPLICATE
+[2026.05.22-00.04.13:874][ 89]Cmd: DUPLICATE
+[2026.05.22-00.04.13:874][ 89]Cmd: ACTOR DUPLICATE
+[2026.05.22-00.04.22:625][852]Cmd: DUPLICATE
+[2026.05.22-00.04.22:625][852]Cmd: ACTOR DUPLICATE
+[2026.05.22-00.04.28:886][345]Cmd: DUPLICATE
+[2026.05.22-00.04.28:886][345]Cmd: ACTOR DUPLICATE
+[2026.05.22-00.04.33:887][830]Cmd: ACTOR SELECT ALL
+[2026.05.22-00.04.34:963][928]Cmd: TRANSACTION UNDO
+[2026.05.22-00.04.34:963][928]LogEditorTransaction: Undo Select All
+[2026.05.22-00.04.36:489][ 45]Cmd: TRANSACTION UNDO
+[2026.05.22-00.04.36:489][ 45]LogEditorTransaction: Undo Move Elements
+[2026.05.22-00.04.53:286][646]LogWebBrowser: Loaded CEF3 version 90.6.7.2358 from C:/Program Files/Epic Games/UE_5.5/Engine/Binaries/ThirdParty/CEF3/Win64
+[2026.05.22-00.04.53:303][646]LogCEFBrowser: CEF GPU acceleration enabled
+[2026.05.22-00.05.08:058][920]LogFab: Display: Asset Type = gltf
+[2026.05.22-00.05.08:059][920]LogFab: Display: Is Quixel = 0
+[2026.05.22-00.05.08:678][933]LogStreaming: Display: FlushAsyncLoading(592): 1 QueuedPackages, 0 AsyncPackages
+[2026.05.22-00.05.08:978][933]LogInterchangeEngine: Display: Interchange import: Using stack [OverridePipeline] to import.
+[2026.05.22-00.05.08:978][933]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Usuario/AppData/Local/Temp/FabLibrary/738c6855-0658-49d1-948a-ae5817ccc366/old_table_extracted/scene.gltf]
+[2026.05.22-00.05.09:093][935]LogStreaming: Display: FlushAsyncLoading(627): 1 QueuedPackages, 0 AsyncPackages
+[2026.05.22-00.05.09:742][990]LogStreaming: Display: FlushAsyncLoading(632): 1 QueuedPackages, 0 AsyncPackages
+[2026.05.22-00.05.10:275][ 37]LogStreaming: Display: FlushAsyncLoading(634): 1 QueuedPackages, 0 AsyncPackages
+[2026.05.22-00.05.10:553][ 54]LogStreaming: Display: FlushAsyncLoading(635): 1 QueuedPackages, 0 AsyncPackages
+[2026.05.22-00.05.11:189][ 69]LogStaticMesh: Display: Building static mesh scene (Required Memory Estimate: 237.3656 MB)...
+[2026.05.22-00.05.12:341][177]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 361.240967
+[2026.05.22-00.05.12:485][192]LogStaticMesh: Built static mesh [1.30s] /Game/Fab/Old_Table/scene.scene
+[2026.05.22-00.05.12:504][193]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.22-00.05.12:504][193]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 361.393188, Update Interval: 355.530273
+[2026.05.22-00.05.12:973][227]LogInterchangeEngine: Display: Interchange import completed [C:/Users/Usuario/App.../old_table_extracted/scene.gltf]
+[2026.05.22-00.05.13:296][244]LogD3D12RHI: Waited for PSO creation for 100.000000ms
+[2026.05.22-00.05.14:478][336]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Fab/Old_Table/scene.scene
+[2026.05.22-00.05.14:478][336]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Fab/Old_Table/scene.scene
+[2026.05.22-00.05.14:478][336]LogActorFactory: Actor Factory spawned StaticMesh /Game/Fab/Old_Table/scene.scene as actor: StaticMeshActor /Game/NewMap.NewMap:PersistentLevel.StaticMeshActor_1
+[2026.05.22-00.05.15:078][388]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2026.05.22-00.05.15:081][388]LogEditorActor: Deleted 0 Actors (0.014 secs)
+[2026.05.22-00.05.15:087][388]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Fab/Old_Table/scene.scene
+[2026.05.22-00.05.15:087][388]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Fab/Old_Table/scene.scene
+[2026.05.22-00.05.15:090][388]LogActorFactory: Actor Factory spawned StaticMesh /Game/Fab/Old_Table/scene.scene as actor: StaticMeshActor /Game/NewMap.NewMap:PersistentLevel.StaticMeshActor_UAID_18C04DC29BB356DD02_1941242017
+[2026.05.22-00.05.19:803][894]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Fab/Old_Table/scene.scene
+[2026.05.22-00.05.19:803][894]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Fab/Old_Table/scene.scene
+[2026.05.22-00.05.19:803][894]LogActorFactory: Actor Factory spawned StaticMesh /Game/Fab/Old_Table/scene.scene as actor: StaticMeshActor /Game/NewMap.NewMap:PersistentLevel.StaticMeshActor_2
+[2026.05.22-00.05.20:878][998]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2026.05.22-00.05.20:882][998]LogEditorActor: Deleted 0 Actors (0.012 secs)
+[2026.05.22-00.05.20:888][998]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Fab/Old_Table/scene.scene
+[2026.05.22-00.05.20:888][998]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Fab/Old_Table/scene.scene
+[2026.05.22-00.05.20:889][998]LogActorFactory: Actor Factory spawned StaticMesh /Game/Fab/Old_Table/scene.scene as actor: StaticMeshActor /Game/NewMap.NewMap:PersistentLevel.StaticMeshActor_UAID_18C04DC29BB356DD02_1947043018
+[2026.05.22-00.05.21:408][ 46]Cmd: DELETE
+[2026.05.22-00.05.21:408][ 46]Cmd: ACTOR DELETE
+[2026.05.22-00.05.21:414][ 46]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.05.22-00.05.21:422][ 46]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2026.05.22-00.05.21:425][ 46]LogEditorActor: Deleted 1 Actors (0.017 secs)
+[2026.05.22-00.05.32:479][245]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.22-00.05.32:479][245]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2026.05.22-00.05.32:490][245]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2026.05.22-00.05.32:501][245]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2026.05.22-00.05.32:507][245]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2026.05.22-00.05.32:510][245]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/E/7O/R6IRA03ZNA2952DOEEVNW4
+[2026.05.22-00.05.32:510][245]LogSavePackage: Moving '../../../../../../Users/Usuario/OneDrive/Documentos/Repos/AA3-Level-Design/MyProject/Saved/R6IRA03ZNA2952DOEEVNW4FC0BB40247BC6171FC3DAAA67EC75938.tmp' to '../../../../../../Users/Usuario/OneDrive/Documentos/Repos/AA3-Level-Design/MyProject/Content/__ExternalActors__/NewMap/E/7O/R6IRA03ZNA2952DOEEVNW4.uasset'
+[2026.05.22-00.05.32:512][245]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/3/II/BPGPTZUKHJKTIPGKTJW0RM
+[2026.05.22-00.05.32:512][245]LogSavePackage: Moving '../../../../../../Users/Usuario/OneDrive/Documentos/Repos/AA3-Level-Design/MyProject/Saved/BPGPTZUKHJKTIPGKTJW0RME1AFDA5A41B3C109C0CA2286F26AC67D.tmp' to '../../../../../../Users/Usuario/OneDrive/Documentos/Repos/AA3-Level-Design/MyProject/Content/__ExternalActors__/NewMap/3/II/BPGPTZUKHJKTIPGKTJW0RM.uasset'
+[2026.05.22-00.05.32:515][245]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/8/GG/0UBF9OZ803YSEIDU9UUM8C
+[2026.05.22-00.05.32:515][245]LogSavePackage: Moving '../../../../../../Users/Usuario/OneDrive/Documentos/Repos/AA3-Level-Design/MyProject/Saved/0UBF9OZ803YSEIDU9UUM8C3AE5843E4CD4ECB6A6BDE0AE2F18DB7B.tmp' to '../../../../../../Users/Usuario/OneDrive/Documentos/Repos/AA3-Level-Design/MyProject/Content/__ExternalActors__/NewMap/8/GG/0UBF9OZ803YSEIDU9UUM8C.uasset'
+[2026.05.22-00.05.32:516][245]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/C/Y7/WJTXTBOP49X29UJVGK173R
+[2026.05.22-00.05.32:516][245]LogSavePackage: Moving '../../../../../../Users/Usuario/OneDrive/Documentos/Repos/AA3-Level-Design/MyProject/Saved/WJTXTBOP49X29UJVGK173R201E77FD4D1D8FD8FD336F87BE1CFFF0.tmp' to '../../../../../../Users/Usuario/OneDrive/Documentos/Repos/AA3-Level-Design/MyProject/Content/__ExternalActors__/NewMap/C/Y7/WJTXTBOP49X29UJVGK173R.uasset'
+[2026.05.22-00.05.32:518][245]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/3/G8/CMY3XD6W51A0Z5FUTM9EM4
+[2026.05.22-00.05.32:518][245]LogSavePackage: Moving '../../../../../../Users/Usuario/OneDrive/Documentos/Repos/AA3-Level-Design/MyProject/Saved/CMY3XD6W51A0Z5FUTM9EM4F4D146F0463C41823FF263B21A31CC6A.tmp' to '../../../../../../Users/Usuario/OneDrive/Documentos/Repos/AA3-Level-Design/MyProject/Content/__ExternalActors__/NewMap/3/G8/CMY3XD6W51A0Z5FUTM9EM4.uasset'
+[2026.05.22-00.05.32:521][245]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/E/MO/S8LGS9HVZC9R7D9MGYFCN6
+[2026.05.22-00.05.32:521][245]LogSavePackage: Moving '../../../../../../Users/Usuario/OneDrive/Documentos/Repos/AA3-Level-Design/MyProject/Saved/S8LGS9HVZC9R7D9MGYFCN6F1D03BB449F45DADB2D11A8B5F71D47D.tmp' to '../../../../../../Users/Usuario/OneDrive/Documentos/Repos/AA3-Level-Design/MyProject/Content/__ExternalActors__/NewMap/E/MO/S8LGS9HVZC9R7D9MGYFCN6.uasset'
+[2026.05.22-00.05.32:523][245]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/B/BV/JVUZKTE38U6CVYTY7GHM6M
+[2026.05.22-00.05.32:523][245]LogSavePackage: Moving '../../../../../../Users/Usuario/OneDrive/Documentos/Repos/AA3-Level-Design/MyProject/Saved/JVUZKTE38U6CVYTY7GHM6M9D87941146F1EA0C5E6237B658E318EE.tmp' to '../../../../../../Users/Usuario/OneDrive/Documentos/Repos/AA3-Level-Design/MyProject/Content/__ExternalActors__/NewMap/B/BV/JVUZKTE38U6CVYTY7GHM6M.uasset'
+[2026.05.22-00.05.32:525][245]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/E/MT/L6K0WBRII1USFJ1Q718KZ6
+[2026.05.22-00.05.32:525][245]LogSavePackage: Moving '../../../../../../Users/Usuario/OneDrive/Documentos/Repos/AA3-Level-Design/MyProject/Saved/L6K0WBRII1USFJ1Q718KZ6D058D2364CE295B8D37D1591E7988F28.tmp' to '../../../../../../Users/Usuario/OneDrive/Documentos/Repos/AA3-Level-Design/MyProject/Content/__ExternalActors__/NewMap/E/MT/L6K0WBRII1USFJ1Q718KZ6.uasset'
+[2026.05.22-00.05.32:527][245]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/8/A2/BB9S1VGT5WVWT6RL9KT4Q8
+[2026.05.22-00.05.32:527][245]LogSavePackage: Moving '../../../../../../Users/Usuario/OneDrive/Documentos/Repos/AA3-Level-Design/MyProject/Saved/BB9S1VGT5WVWT6RL9KT4Q81E34E0E84B6557493BAFD295C7BC6687.tmp' to '../../../../../../Users/Usuario/OneDrive/Documentos/Repos/AA3-Level-Design/MyProject/Content/__ExternalActors__/NewMap/8/A2/BB9S1VGT5WVWT6RL9KT4Q8.uasset'
+[2026.05.22-00.05.32:529][245]LogFileHelpers: InternalPromptForCheckoutAndSave took 49.836 ms (total: 1.29 sec)
+[2026.05.22-00.05.32:534][245]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2026.05.22-00.05.32:534][245]LogContentValidation: Display: Starting to validate 9 assets
+[2026.05.22-00.05.32:534][245]LogContentValidation: Enabled validators:
+[2026.05.22-00.05.32:534][245]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.22-00.05.32:534][245]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.22-00.05.32:534][245]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.22-00.05.32:534][245]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.22-00.05.32:534][245]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.22-00.05.32:534][245]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.22-00.05.32:534][245]AssetCheck: /Game/NewMap Validating asset
+[2026.05.22-00.05.33:433][339]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.22-00.05.33:433][339]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2026.05.22-00.05.33:443][339]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2026.05.22-00.05.33:454][339]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2026.05.22-00.05.33:465][339]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2026.05.22-00.05.33:466][339]LogFileHelpers: InternalPromptForCheckoutAndSave took 33.049 ms (total: 1.32 sec)
+[2026.05.22-00.05.33:772][374]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.22-00.05.33:772][374]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2026.05.22-00.05.33:782][374]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2026.05.22-00.05.33:792][374]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2026.05.22-00.05.33:802][374]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2026.05.22-00.05.33:803][374]LogFileHelpers: InternalPromptForCheckoutAndSave took 31.114 ms (total: 1.35 sec)
+[2026.05.22-00.05.33:922][382]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.22-00.05.33:922][382]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2026.05.22-00.05.33:932][382]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2026.05.22-00.05.33:940][382]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2026.05.22-00.05.33:950][382]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2026.05.22-00.05.33:951][382]LogFileHelpers: InternalPromptForCheckoutAndSave took 28.091 ms (total: 1.38 sec)
+[2026.05.22-00.06.12:709][887]LogStreaming: Display: FlushAsyncLoading(636): 1 QueuedPackages, 0 AsyncPackages
+[2026.05.22-00.06.12:835][890]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Props/SM_TableRound.SM_TableRound
+[2026.05.22-00.06.12:835][890]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Props/SM_TableRound.SM_TableRound
+[2026.05.22-00.06.12:835][890]LogActorFactory: Actor Factory spawned StaticMesh /Game/StarterContent/Props/SM_TableRound.SM_TableRound as actor: StaticMeshActor /Game/NewMap.NewMap:PersistentLevel.StaticMeshActor_3
+[2026.05.22-00.06.13:584][935]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2026.05.22-00.06.13:589][935]LogEditorActor: Deleted 0 Actors (0.013 secs)
+[2026.05.22-00.06.13:594][935]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Props/SM_TableRound.SM_TableRound
+[2026.05.22-00.06.13:594][935]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Props/SM_TableRound.SM_TableRound
+[2026.05.22-00.06.13:597][935]LogActorFactory: Actor Factory spawned StaticMesh /Game/StarterContent/Props/SM_TableRound.SM_TableRound as actor: StaticMeshActor /Game/NewMap.NewMap:PersistentLevel.StaticMeshActor_UAID_18C04DC29BB356DD02_1999749019
+[2026.05.22-00.07.16:633][214]LogFab: Display: Asset Type = glb
+[2026.05.22-00.07.16:633][214]LogFab: Display: Is Quixel = 0
+[2026.05.22-00.07.16:883][222]LogStreaming: Display: FlushAsyncLoading(637): 1 QueuedPackages, 0 AsyncPackages
+[2026.05.22-00.07.16:884][222]LogInterchangeEngine: Display: Interchange import: Using stack [OverridePipeline] to import.
+[2026.05.22-00.07.16:884][222]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Usuario/AppData/Local/Temp/FabLibrary/25559a1e-c623-464c-bc3e-444371faff56/small_wooden_table.glb]
+[2026.05.22-00.07.17:038][225]LogStreaming: Display: FlushAsyncLoading(638): 1 QueuedPackages, 0 AsyncPackages
+[2026.05.22-00.07.17:596][260]LogStreaming: Display: FlushAsyncLoading(643): 1 QueuedPackages, 0 AsyncPackages
+[2026.05.22-00.07.17:787][274]LogStreaming: Display: FlushAsyncLoading(645): 1 QueuedPackages, 0 AsyncPackages
+[2026.05.22-00.07.17:828][277]LogStreaming: Display: FlushAsyncLoading(646): 1 QueuedPackages, 0 AsyncPackages
+[2026.05.22-00.07.17:916][278]LogStaticMesh: Display: Building static mesh small_wooden_table (Required Memory Estimate: 12.700231 MB)...
+[2026.05.22-00.07.17:979][284]LogStaticMesh: Built static mesh [0.06s] /Game/Fab/Small-_Wooden-_Table/small_wooden_table.small_wooden_table
+[2026.05.22-00.07.18:031][286]LogInterchangeEngine: Display: Interchange import completed [C:/Users/Usuario/App...4c-bc3e-444371faff56/small_wooden_table.glb]
+[2026.05.22-00.07.19:590][393]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Fab/Small-_Wooden-_Table/small_wooden_table.small_wooden_table
+[2026.05.22-00.07.19:590][393]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Fab/Small-_Wooden-_Table/small_wooden_table.small_wooden_table
+[2026.05.22-00.07.19:590][393]LogActorFactory: Actor Factory spawned StaticMesh /Game/Fab/Small-_Wooden-_Table/small_wooden_table.small_wooden_table as actor: StaticMeshActor /Game/NewMap.NewMap:PersistentLevel.StaticMeshActor_4
+[2026.05.22-00.07.20:534][472]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2026.05.22-00.07.20:538][472]LogEditorActor: Deleted 0 Actors (0.018 secs)
+[2026.05.22-00.07.20:545][472]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Fab/Small-_Wooden-_Table/small_wooden_table.small_wooden_table
+[2026.05.22-00.07.20:545][472]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Fab/Small-_Wooden-_Table/small_wooden_table.small_wooden_table
+[2026.05.22-00.07.20:547][472]LogActorFactory: Actor Factory spawned StaticMesh /Game/Fab/Small-_Wooden-_Table/small_wooden_table.small_wooden_table as actor: StaticMeshActor /Game/NewMap.NewMap:PersistentLevel.StaticMeshActor_UAID_18C04DC29BB356DD02_2066700020
+[2026.05.22-00.07.31:141][307]LogFab: Display: Asset Type = glb
+[2026.05.22-00.07.31:141][307]LogFab: Display: Is Quixel = 0
+[2026.05.22-00.07.31:322][310]LogStreaming: Display: FlushAsyncLoading(647): 1 QueuedPackages, 0 AsyncPackages
+[2026.05.22-00.07.31:323][310]LogInterchangeEngine: Display: Interchange import: Using stack [OverridePipeline] to import.
+[2026.05.22-00.07.31:323][310]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Usuario/AppData/Local/Temp/FabLibrary/fc00b5c9-13fa-483f-9a9b-5c2cabe6a589/hexagonal_table_01.glb]
+[2026.05.22-00.07.31:455][313]LogStreaming: Display: FlushAsyncLoading(648): 1 QueuedPackages, 0 AsyncPackages
+[2026.05.22-00.07.32:070][354]LogStreaming: Display: FlushAsyncLoading(651): 1 QueuedPackages, 0 AsyncPackages
+[2026.05.22-00.07.32:096][356]LogStreaming: Display: FlushAsyncLoading(652): 1 QueuedPackages, 0 AsyncPackages
+[2026.05.22-00.07.32:148][357]LogStaticMesh: Display: Building static mesh hexagonal_table_01 (Required Memory Estimate: 0.391404 MB)...
+[2026.05.22-00.07.32:158][358]LogStaticMesh: Built static mesh [0.01s] /Game/Fab/Hexagonal_Table/hexagonal_table_01.hexagonal_table_01
+[2026.05.22-00.07.32:179][359]LogInterchangeEngine: Display: Interchange import completed [C:/Users/Usuario/App...3f-9a9b-5c2cabe6a589/hexagonal_table_01.glb]
+[2026.05.22-00.07.33:472][448]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Fab/Hexagonal_Table/hexagonal_table_01.hexagonal_table_01
+[2026.05.22-00.07.33:472][448]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Fab/Hexagonal_Table/hexagonal_table_01.hexagonal_table_01
+[2026.05.22-00.07.33:473][448]LogActorFactory: Actor Factory spawned StaticMesh /Game/Fab/Hexagonal_Table/hexagonal_table_01.hexagonal_table_01 as actor: StaticMeshActor /Game/NewMap.NewMap:PersistentLevel.StaticMeshActor_5
+[2026.05.22-00.07.34:507][550]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2026.05.22-00.07.34:511][550]LogEditorActor: Deleted 0 Actors (0.015 secs)
+[2026.05.22-00.07.34:517][550]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Fab/Hexagonal_Table/hexagonal_table_01.hexagonal_table_01
+[2026.05.22-00.07.34:517][550]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Fab/Hexagonal_Table/hexagonal_table_01.hexagonal_table_01
+[2026.05.22-00.07.34:518][550]LogActorFactory: Actor Factory spawned StaticMesh /Game/Fab/Hexagonal_Table/hexagonal_table_01.hexagonal_table_01 as actor: StaticMeshActor /Game/NewMap.NewMap:PersistentLevel.StaticMeshActor_UAID_18C04DC29BB356DD02_2080672021
+[2026.05.22-00.08.04:401][856]LogFab: Display: Asset Type = glb
+[2026.05.22-00.08.04:401][856]LogFab: Display: Is Quixel = 0
+[2026.05.22-00.08.04:600][860]LogStreaming: Display: FlushAsyncLoading(653): 1 QueuedPackages, 0 AsyncPackages
+[2026.05.22-00.08.04:601][860]LogInterchangeEngine: Display: Interchange import: Using stack [OverridePipeline] to import.
+[2026.05.22-00.08.04:601][860]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Usuario/AppData/Local/Temp/FabLibrary/c083f72d-9a8f-4e6b-8eb6-e4c8ea1495e0/brown_vintage_table_freepolyorg.glb]
+[2026.05.22-00.08.04:736][862]LogStreaming: Display: FlushAsyncLoading(654): 1 QueuedPackages, 0 AsyncPackages
+[2026.05.22-00.08.05:119][886]LogStreaming: Display: FlushAsyncLoading(659): 1 QueuedPackages, 0 AsyncPackages
+[2026.05.22-00.08.05:187][891]LogStreaming: Display: FlushAsyncLoading(661): 1 QueuedPackages, 0 AsyncPackages
+[2026.05.22-00.08.05:458][912]LogStreaming: Display: FlushAsyncLoading(662): 1 QueuedPackages, 0 AsyncPackages
+[2026.05.22-00.08.05:750][919]LogStaticMesh: Display: Building static mesh brown_vintage_table_freepolyorg (Required Memory Estimate: 190.733124 MB)...
+[2026.05.22-00.08.06:559][982]LogStaticMesh: Built static mesh [0.81s] /Game/Fab/Brown_vintage_table-Freepoly_org/brown_vintage_table_freepolyorg.brown_vintage_table_freepolyorg
+[2026.05.22-00.08.06:819][998]LogInterchangeEngine: Display: Interchange import completed [C:/Users/Usuario/App...6b-8eb6-e4c8ea1495e0/brown_vintage_table_freepolyorg.glb]
+[2026.05.22-00.08.10:248][343]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Fab/Brown_vintage_table-Freepoly_org/brown_vintage_table_freepolyorg.brown_vintage_table_freepolyorg
+[2026.05.22-00.08.10:248][343]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Fab/Brown_vintage_table-Freepoly_org/brown_vintage_table_freepolyorg.brown_vintage_table_freepolyorg
+[2026.05.22-00.08.10:248][343]LogActorFactory: Actor Factory spawned StaticMesh /Game/Fab/Brown_vintage_table-Freepoly_org/brown_vintage_table_freepolyorg.brown_vintage_table_freepolyorg as actor: StaticMeshActor /Game/NewMap.NewMap:PersistentLevel.StaticMeshActor_6
+[2026.05.22-00.08.10:739][389]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2026.05.22-00.08.10:743][389]LogEditorActor: Deleted 0 Actors (0.016 secs)
+[2026.05.22-00.08.25:536][323]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Fab/Brown_vintage_table-Freepoly_org/brown_vintage_table_freepolyorg.brown_vintage_table_freepolyorg
+[2026.05.22-00.08.25:536][323]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Fab/Brown_vintage_table-Freepoly_org/brown_vintage_table_freepolyorg.brown_vintage_table_freepolyorg
+[2026.05.22-00.08.25:536][323]LogActorFactory: Actor Factory spawned StaticMesh /Game/Fab/Brown_vintage_table-Freepoly_org/brown_vintage_table_freepolyorg.brown_vintage_table_freepolyorg as actor: StaticMeshActor /Game/NewMap.NewMap:PersistentLevel.StaticMeshActor_7
+[2026.05.22-00.08.26:280][398]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2026.05.22-00.08.26:284][398]LogEditorActor: Deleted 0 Actors (0.012 secs)
+[2026.05.22-00.08.26:290][398]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Fab/Brown_vintage_table-Freepoly_org/brown_vintage_table_freepolyorg.brown_vintage_table_freepolyorg
+[2026.05.22-00.08.26:290][398]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Fab/Brown_vintage_table-Freepoly_org/brown_vintage_table_freepolyorg.brown_vintage_table_freepolyorg
+[2026.05.22-00.08.26:292][398]LogActorFactory: Actor Factory spawned StaticMesh /Game/Fab/Brown_vintage_table-Freepoly_org/brown_vintage_table_freepolyorg.brown_vintage_table_freepolyorg as actor: StaticMeshActor /Game/NewMap.NewMap:PersistentLevel.StaticMeshActor_UAID_18C04DC29BB356DD02_2132445022
+[2026.05.22-00.08.27:181][468]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.22-00.08.27:230][468]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2026.05.22-00.08.27:241][468]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2026.05.22-00.08.27:250][468]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2026.05.22-00.08.27:252][468]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/8/A2/BB9S1VGT5WVWT6RL9KT4Q8
+[2026.05.22-00.08.27:253][468]LogSavePackage: Moving '../../../../../../Users/Usuario/OneDrive/Documentos/Repos/AA3-Level-Design/MyProject/Saved/BB9S1VGT5WVWT6RL9KT4Q857B613554F506EFED10CC583F6F55C1C.tmp' to '../../../../../../Users/Usuario/OneDrive/Documentos/Repos/AA3-Level-Design/MyProject/Content/__ExternalActors__/NewMap/8/A2/BB9S1VGT5WVWT6RL9KT4Q8.uasset'
+[2026.05.22-00.08.27:255][468]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/6/Z0/BONJTLQF36FAZZ823UBGQY
+[2026.05.22-00.08.27:255][468]LogSavePackage: Moving '../../../../../../Users/Usuario/OneDrive/Documentos/Repos/AA3-Level-Design/MyProject/Saved/BONJTLQF36FAZZ823UBGQY845F3CAE433075A102F882B53F2148E7.tmp' to '../../../../../../Users/Usuario/OneDrive/Documentos/Repos/AA3-Level-Design/MyProject/Content/__ExternalActors__/NewMap/6/Z0/BONJTLQF36FAZZ823UBGQY.uasset'
+[2026.05.22-00.08.27:257][468]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/3/OG/V57NNT0MQDIVRRJZGXD9Y0
+[2026.05.22-00.08.27:257][468]LogSavePackage: Moving '../../../../../../Users/Usuario/OneDrive/Documentos/Repos/AA3-Level-Design/MyProject/Saved/V57NNT0MQDIVRRJZGXD9Y029AF4B3E4D90422AD2F4E4BA3755E7BA.tmp' to '../../../../../../Users/Usuario/OneDrive/Documentos/Repos/AA3-Level-Design/MyProject/Content/__ExternalActors__/NewMap/3/OG/V57NNT0MQDIVRRJZGXD9Y0.uasset'
+[2026.05.22-00.08.27:259][468]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/2/H6/FVCMLK745L329EMMRECXX2
+[2026.05.22-00.08.27:259][468]LogSavePackage: Moving '../../../../../../Users/Usuario/OneDrive/Documentos/Repos/AA3-Level-Design/MyProject/Saved/FVCMLK745L329EMMRECXX26E23474144790514980E419DEA8D91F6.tmp' to '../../../../../../Users/Usuario/OneDrive/Documentos/Repos/AA3-Level-Design/MyProject/Content/__ExternalActors__/NewMap/2/H6/FVCMLK745L329EMMRECXX2.uasset'
+[2026.05.22-00.08.27:262][468]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/2/72/XAE50DBLZZJ4ZOUEUIKY17
+[2026.05.22-00.08.27:262][468]LogSavePackage: Moving '../../../../../../Users/Usuario/OneDrive/Documentos/Repos/AA3-Level-Design/MyProject/Saved/XAE50DBLZZJ4ZOUEUIKY174603AA9C4DE1D1D6F0645A85D6F92E96.tmp' to '../../../../../../Users/Usuario/OneDrive/Documentos/Repos/AA3-Level-Design/MyProject/Content/__ExternalActors__/NewMap/2/72/XAE50DBLZZJ4ZOUEUIKY17.uasset'
+[2026.05.22-00.08.27:272][468]LogFileHelpers: InternalPromptForCheckoutAndSave took 90.711 ms (total: 1.47 sec)
+[2026.05.22-00.08.27:303][468]LogContentValidation: Display: Starting to validate 5 assets
+[2026.05.22-00.08.27:303][468]LogContentValidation: Enabled validators:
+[2026.05.22-00.08.27:303][468]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.22-00.08.27:303][468]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.22-00.08.27:303][468]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.22-00.08.27:303][468]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.22-00.08.27:303][468]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.22-00.08.27:303][468]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.22-00.08.27:303][468]AssetCheck: /Game/NewMap Validating asset
